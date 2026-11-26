@@ -24,3 +24,26 @@
 **Lesson:** Never assume structural decisions (single-page vs multi-page, page count, folder structure) without explicit user confirmation. Ask first.
 
 **Impact:** The site is built single-page; if the user wanted multi-page, it must now be restructured.
+
+---
+
+## 2026-08-26 — Placed nav item "About" second-to-last without checking industry norms
+
+**Mistake:** I ordered the nav as `Home | Projects | Services | Expertise | About | Contact`, placing "About" second-to-last. This is unusual for construction/EPC firms — most big international firms place "About/Company/About Us" near the beginning (often second after Home).
+
+**Reference sites check:**
+- **L&T:** About Us is FIRST
+- **AECOM:** About Us is FIRST
+- **Skanska:** About us is FIRST
+- **Turner:** Our Company is FIRST
+- **Fluor:** About is FIRST
+- **SOM:** About is near LAST
+- **Bouygues:** About us is second-to-last
+- **HOCHTIEF:** About HOCHTIEF is near end
+- **HOK:** About is in the MIDDLE
+
+**Truth:** For construction/EPC firms, About/Company typically appears early (often second after Home) because clients want to know who you are before seeing projects. Only design-led firms (SOM, Bouygues) bury it deeper.
+
+**Lesson:** Check nav ordering against direct competitors before finalizing. For EPC firms, About should be second (after Home), not near the end.
+
+**Impact:** All 6 pages had About second-to-last; restructured to `Home | About | Projects | Services | Expertise | Contact` on all pages.
