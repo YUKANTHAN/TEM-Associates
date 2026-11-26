@@ -102,7 +102,7 @@ a:hover, a:focus-visible {
   padding: 0 var(--wrap-padding);
 }
 
-/* Header — logo left, phone right, nav menu */
+/* Header — logo left, nav right */
 .site-header {
   position: sticky;
   top: 0;
@@ -117,30 +117,6 @@ a:hover, a:focus-visible {
   justify-content: space-between;
   gap: 1rem;
   height: 72px;
-}
-
-.header-contact {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-}
-
-.header-phone {
-  font-weight: 700;
-  text-decoration: none;
-  color: var(--color-accent);
-  font-size: var(--scale-meta);
-}
-
-.header-email {
-  font-weight: 500;
-  text-decoration: none;
-  color: var(--color-ink-soft);
-  font-size: var(--scale-meta);
-}
-
-.header-email:hover {
-  color: var(--color-accent);
 }
 
 .brand {
