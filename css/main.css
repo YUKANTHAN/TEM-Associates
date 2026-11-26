@@ -2,26 +2,29 @@
 /* Kind: service | site-kind: other | radius: soft */
 /* Trade: construction / industrial consultancy */
 /* No gradients, no dark heroes, no loops, no shader effects. Photographs lead. */
-/* Palette: trade-informed — ink, amber accent, off-white surfaces. Never violet/lavender. */
+/* Palette from reference analysis: Bechtel slate, Gensler amber, Skanska navy — all trade-appropriate */
 
+/* Design tokens */
 :root {
-  /* Palette — construction trade informed */
-  --color-ink: #0f172a;        /* deep slate — headings, body */
-  --color-ink-soft: #334155;   /* secondary text */
-  --color-muted: #64748b;      /* captions, meta */
-  --color-accent: #d97706;     /* amber — construction trade accent (Bouygues/Turner/TATA pattern) */
-  --color-accent-hover: #b45309;
-  --color-surface: #f8fafc;    /* off-white card ground */
-  --color-border: #e2e8f0;     /* subtle divider */
-  --color-focus: #d97706;
+  /* Construction-trade palette — no violet/lavender, no gradients */
+  --color-ink: #3A4C55;        /* deep slate — headings, body (Bechtel) */
+  --color-ink-soft: #57727F;   /* muted slate — secondary text */
+  --color-muted: #858585;      /* captions, meta (Skanska) */
+  --color-accent: #f6842b;     /* amber/orange — construction accent (Gensler) */
+  --color-accent-hover: #f48540;
+  --color-surface: #F3F6F7;    /* off-white card ground (Bechtel) */
+  --color-surface-light: #ececec; /* lighter surface (Skanska) */
+  --color-border: #DBE2E6;     /* subtle divider (Bechtel) */
+  --color-focus: #f6842b;
 
   /* Radius — soft per service kind */
   --radius: 8px;
   --radius-soft: 12px;
 
-  /* Type — one family, distinct weights */
-  --font-display: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  /* Type — custom serif display + clean sans body */
+  --font-display: "Georgia", "Times New Roman", serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 
   /* Type scale — The Elements of Typographic Style */
   --scale-h1: clamp(2.5rem, 6vw + 1rem, 4rem);
@@ -771,6 +774,13 @@ a:hover, a:focus-visible {
   resize: vertical;
 }
 
+.form-group input.field-error,
+.form-group textarea.field-error,
+.form-group select.field-error {
+  border-color: #d97706;
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-accent) 20%, transparent);
+}
+
 /* Values / JV / clients */
 .value-grid {
   list-style: none;
@@ -1102,3 +1112,51 @@ a:hover, a:focus-visible {
     box-shadow: none;
   }
 }
+
+/* Video modal (Bechtel video-popup pattern) */
+.video-modal {
+  border: none;
+  border-radius: var(--radius-soft);
+  padding: 0;
+  max-width: 90vw;
+  max-height: 90vh;
+  width: 90vw;
+  background: transparent;
+  box-shadow: 0 24px 48px color-mix(in srgb, black 15%, transparent);
+}
+
+.video-modal::backdrop {
+  background: color-mix(in srgb, black 40%);
+}
+
+.video-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  line-height: 1;
+  color: #ffffff;
+  z-index: 101;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--radius-soft);
+  background: #000;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+

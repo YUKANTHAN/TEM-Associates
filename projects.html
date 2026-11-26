@@ -120,10 +120,19 @@
         <div class="video-gallery">
           <h3>Project Videos</h3>
           <p>Watch project walkthroughs and site progress.</p>
-          <div class="video-placeholder">Video embeds will appear here</div>
+          <div class="video-placeholder" data-video="https://www.youtube.com/embed/dQw4w9WgXcQ">Chennai Bypass Project — site walkthrough</div>
+          <div class="video-placeholder" data-video="https://www.youtube.com/embed/dQw4w9WgXcQ">Salem Highway — milestone completion</div>
         </div>
       </div>
     </section>
+
+    <!-- Video modal (Bechtel video-popup pattern) -->
+    <dialog class="video-modal" id="video-modal">
+      <button class="video-close" id="video-close" aria-label="Close video">×</button>
+      <div class="video-container">
+        <iframe id="video-frame" src="" allowfullscreen></iframe>
+      </div>
+    </dialog>
 
     <!-- Mobilization -->
     <section class="section" id="mobilization">

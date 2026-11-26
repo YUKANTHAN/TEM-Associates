@@ -1,5 +1,6 @@
 /* TEM Associates — interaction layer */
-/* Popup, smooth scroll, mobile menu, focus management */
+/* Patterns from reference sites: Bechtel (tabs, video popup), SOM (modal, deep-dive), Turner (hero popup) */
+/* Hover micro-animations, focus management, nav toggle, popup, video lightbox */
 
 (function () {
   /* ---- Mobile menu toggle ---- */
@@ -29,14 +30,15 @@
 
   function openPopup() {
     if (!popup || !backdrop) return;
-    popup.showModal ? popup.showModal() : (popup.hidden = false);
+    if (popup.showModal) popup.showModal(); else popup.hidden = false;
     backdrop.hidden = false;
     document.body.style.overflow = 'hidden';
+    popup.focus();
   }
 
   function closePopup() {
     if (!popup || !backdrop) return;
-    popup.close ? popup.close() : (popup.hidden = true);
+    if (popup.close) popup.close(); else popup.hidden = true;
     backdrop.hidden = true;
     document.body.style.overflow = '';
   }
@@ -44,6 +46,13 @@
   if (trigger) trigger.addEventListener('click', openPopup);
   if (closeBtn) closeBtn.addEventListener('click', closePopup);
   if (backdrop) backdrop.addEventListener('click', closePopup);
+
+  /* Close popup on Escape */
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && popup && !popup.hidden) {
+      closePopup();
+    }
+  });
 
   /* ---- Smooth scroll for anchor links ---- */
   document.addEventListener('click', function (event) {
@@ -66,5 +75,78 @@
     if (targetRect.top < headerBottom && targetRect.bottom > headerBottom) {
       target.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
+  });
+
+  /* ---- Video lightbox (Bechtel video-popup pattern) ---- */
+  const videoTriggers = document.querySelectorAll('[data-video]');
+  const videoModal = document.getElementById('video-modal');
+  const videoFrame = document.getElementById('video-frame');
+  const videoClose = document.getElementById('video-close');
+
+  function openVideo(url) {
+    if (!videoModal || !videoFrame) return;
+    videoFrame.src = url;
+    videoModal.hidden = false;
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeVideo() {
+    if (!videoModal || !videoFrame) return;
+    videoFrame.src = '';
+    videoModal.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  videoTriggers.forEach(function (trigger) {
+    trigger.addEventListener('click', function (event) {
+      event.preventDefault();
+      const url = trigger.getAttribute('data-video');
+      openVideo(url);
+    });
+  });
+
+  if (videoClose) videoClose.addEventListener('click', closeVideo);
+  if (videoModal) videoModal.addEventListener('click', function (event) {
+    if (event.target === videoModal) closeVideo();
+  });
+
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && videoModal && !videoModal.hidden) {
+      closeVideo();
+    }
+  });
+
+  /* ---- Form enhancement: inline validation hints ---- */
+  document.querySelectorAll('form').forEach(function (form) {
+    form.addEventListener('submit', function (event) {
+      const requiredFields = form.querySelectorAll('input[required], textarea[required], select[required]');
+      let hasError = false;
+
+      requiredFields.forEach(function (field) {
+        if (!field.value.trim()) {
+          field.setAttribute('aria-invalid', 'true');
+          field.classList.add('field-error');
+          hasError = true;
+        } else {
+          field.removeAttribute('aria-invalid');
+          field.classList.remove('field-error');
+        }
+      });
+
+      if (hasError) {
+        event.preventDefault();
+        const firstError = form.querySelector('[aria-invalid="true"]');
+        if (firstError) firstError.focus();
+      }
+    });
+
+    form.querySelectorAll('input[required], textarea[required], select[required]').forEach(function (field) {
+      field.addEventListener('input', function () {
+        if (field.value.trim()) {
+          field.removeAttribute('aria-invalid');
+          field.classList.remove('field-error');
+        }
+      });
+    });
   });
 })();
