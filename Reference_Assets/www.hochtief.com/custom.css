@@ -1,0 +1,9 @@
+ article .news-img-wrap .mediaelement-image {
+     margin-bottom: 20px;
+ }
+
+ @media (min-width: 1520px) {
+     article h1 {
+         font-size: 3.0rem;
+     }
+ }
