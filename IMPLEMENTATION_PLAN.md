@@ -6,14 +6,6 @@ Reference research: `NEW_SITE_RESEARCH.md` (23 sites, patterns adopted).
 
 ---
 
-## ⚠️ Architecture Decision Note
-
-**Single-page vs multi-page was my assumption, not your instruction.** You never specified whether TEM should be a single-page site (`index.html` with anchor sections) or multi-page (`index.html`, `about.html`, `projects.html`, etc.). I chose single-page when drafting this plan and building the code — that was **my mistake**. If you prefer multi-page, the site can be split into separate files at any time.
-
-Current build: **single-page** (`index.html` with all sections, nav anchors to `#hero`, `#projects`, `#services`, `#expertise`, `#about`, `#contact`).
-
----
-
 ## Nav Structure (6 items)
 
 `Home | Projects | Services | Expertise | About | Contact`
