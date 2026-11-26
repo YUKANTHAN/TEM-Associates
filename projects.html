@@ -60,19 +60,32 @@
     </section>
 
     <!-- TRACK RECORD CHAPTER 1: MEGA PROJECTS -->
-    <section class="section track-record">
+    <section class="section track-record" id="mega-projects">
       <div class="wrap">
+        <div class="project-filters">
+          <input type="text" id="project-search" placeholder="Search projects..." class="search-input">
+          <div class="filter-chips">
+            <button class="filter-chip active" data-filter="all">All</button>
+            <button class="filter-chip" data-filter="roads">Roads</button>
+            <button class="filter-chip" data-filter="railways">Railways</button>
+            <button class="filter-chip" data-filter="airport">Airport</button>
+            <button class="filter-chip" data-filter="irrigation">Irrigation</button>
+            <button class="filter-chip" data-filter="buildings">Buildings</button>
+            <button class="filter-chip" data-filter="energy">Energy</button>
+          </div>
+        </div>
         <h2>Key Mega Projects Managed</h2>
         <p class="track-intro">Track record of key mega projects managed under Mr. P. Anantharaj — M.E (Master in Transportation Engineering &amp; Management) — 24+ Years of Leadership Experience.</p>
 
         <ul class="project-list">
-          <li>
+          <li data-tags="roads highway">
             <div class="project-card">
               <img src="TEM_PDF_Images/project_highway_railway.jpeg" alt="Hiriyur – Bellary Road Project" width="300" height="200" loading="lazy" class="project-image">
               <div class="project-info">
                 <h3>Hiriyur – Bellary Road Project</h3>
                 <p class="project-value">₹269 Cr</p>
                 <p class="project-client">Client: L&amp;T</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Highway</span></span>
               </div>
             </div>
           </li>
@@ -83,6 +96,7 @@
                 <h3>Tumkur – Sira Road Project</h3>
                 <p class="project-value">₹153 Cr</p>
                 <p class="project-client">Client: L&amp;T</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Highway</span></span>
               </div>
             </div>
           </li>
@@ -93,6 +107,7 @@
                 <h3>Chennai Bypass Project</h3>
                 <p class="project-value">₹505 Cr</p>
                 <p class="project-client">Client: HCC</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Infrastructure</span></span>
               </div>
             </div>
           </li>
@@ -103,6 +118,7 @@
                 <h3>Hotel &amp; Resort, Abu Dhabi (UAE)</h3>
                 <p class="project-value">AED 750M</p>
                 <p class="project-client">Client: Shapoorji Pallonji</p>
+                <span class="project-tags"><span class="tag">Buildings</span><span class="tag">International</span></span>
               </div>
             </div>
           </li>
@@ -113,16 +129,18 @@
                 <h3>ASPOCOMP Factory, Sriperumbudur</h3>
                 <p class="project-value">₹50 Cr</p>
                 <p class="project-client">Client: ETA</p>
+                <span class="project-tags"><span class="tag">Buildings</span><span class="tag">Industrial</span></span>
               </div>
             </div>
           </li>
           <li>
             <div class="project-card">
-              <img src="TEM_PDF_Images/project_highway_railway.jpeg" alt="Salem – Ulundurpet Highway" width="300" height="200" loading="lazy" class="project-image">
+              <img src="TEM_PDF_Images/project_highway_railway.jpeg" alt="Salem – Ulundurpet Highway Project" width="300" height="200" loading="lazy" class="project-image">
               <div class="project-info">
                 <h3>Salem – Ulundurpet Highway Project</h3>
                 <p class="project-value">₹430 Cr</p>
                 <p class="project-client">Client: Maytas</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Highway</span></span>
               </div>
             </div>
           </li>
@@ -133,6 +151,7 @@
                 <h3>Moradabad – Bareilly Expressway</h3>
                 <p class="project-value">₹550 Cr</p>
                 <p class="project-client">Client: Ramky</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Expressway</span></span>
               </div>
             </div>
           </li>
@@ -143,6 +162,7 @@
                 <h3>Dedicated Freight Corridor (UP)</h3>
                 <p class="project-value">₹150 Cr</p>
                 <p class="project-client">Client: RCM</p>
+                <span class="project-tags"><span class="tag">Railways</span><span class="tag">DFC</span></span>
               </div>
             </div>
           </li>
@@ -153,6 +173,7 @@
                 <h3>Lift Irrigation Projects (KLIS10 &amp; MLIS)</h3>
                 <p class="project-value">₹250 Cr</p>
                 <p class="project-client">Client: NIPL RCMIL</p>
+                <span class="project-tags"><span class="tag">Irrigation</span><span class="tag">Water</span></span>
               </div>
             </div>
           </li>
@@ -163,6 +184,7 @@
                 <h3>Vikravandi Sethiathoppu Road (NH45 C)</h3>
                 <p class="project-value">₹517 Cr</p>
                 <p class="project-client">Client: TMPL</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Highway</span></span>
               </div>
             </div>
           </li>
@@ -173,6 +195,7 @@
                 <h3>Solapur – MH/KA Border NH9 4-Laning</h3>
                 <p class="project-value">₹119 Cr</p>
                 <p class="project-client">Client: TMPL</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Highway</span></span>
               </div>
             </div>
           </li>
@@ -181,7 +204,7 @@
     </section>
 
     <!-- TRACK RECORD CHAPTER 2: DESIGN & ENGINEERING -->
-    <section class="section track-record">
+    <section class="section track-record" id="design-engineering">
       <div class="wrap">
         <h2>Design &amp; Engineering Projects</h2>
         <ul class="project-list">
@@ -192,6 +215,7 @@
                 <h3>SRM University, Haryana (Sonipat)</h3>
                 <p>Design &amp; Detailed Engineering for internal road network</p>
                 <p class="project-client">Client: Bhargav Associates, Chennai</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Engineering</span></span>
               </div>
             </div>
           </li>
@@ -202,6 +226,7 @@
                 <h3>VIMS Medical College, VIZAG</h3>
                 <p>Design and Detailed Engineering for road networks</p>
                 <p class="project-client">Client: Bhargav Associates, Chennai</p>
+                <span class="project-tags"><span class="tag">Buildings</span><span class="tag">Engineering</span></span>
               </div>
             </div>
           </li>
@@ -212,6 +237,7 @@
                 <h3>Vikkravandi to Vadalur Bypass (NH45C)</h3>
                 <p>Pre-engineering works for 4-Laning (0+000 to 54+560) in TN</p>
                 <p class="project-client">Client: VGN Infra, Chennai</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Engineering</span></span>
               </div>
             </div>
           </li>
@@ -222,6 +248,7 @@
                 <h3>Chennai Outer Ring Road</h3>
                 <p>Pre-engineering works for 4-Laning in Tamil Nadu</p>
                 <p class="project-client">Client: VGN Infra, Chennai</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Engineering</span></span>
               </div>
             </div>
           </li>
@@ -232,6 +259,7 @@
                 <h3>TEERTHA Integrated Township, Trichy</h3>
                 <p>Design, Detailed Engineering, PMC &amp; Construction Contractor</p>
                 <p class="project-client">Client: Trichy</p>
+                <span class="project-tags"><span class="tag">Buildings</span><span class="tag">Engineering</span></span>
               </div>
             </div>
           </li>
@@ -242,6 +270,7 @@
                 <h3>Ramco Cement Plant, Trichy</h3>
                 <p>Design &amp; Detailed Engineering for internal roads</p>
                 <p class="project-client">Client: Sree Infratech, Trichy</p>
+                <span class="project-tags"><span class="tag">Buildings</span><span class="tag">Industrial</span></span>
               </div>
             </div>
           </li>
@@ -252,6 +281,7 @@
                 <h3>Srinagar to Banihal Stretch (NH1A)</h3>
                 <p>Design and Detailed Engineering works</p>
                 <p class="project-client">Client: RIL, Hyderabad</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Engineering</span></span>
               </div>
             </div>
           </li>
@@ -262,6 +292,7 @@
                 <h3>KBITS &amp; BMTC Bangalore</h3>
                 <p>Pre-Engineering works</p>
                 <p class="project-client">Client: RIL, Hyderabad</p>
+                <span class="project-tags"><span class="tag">Buildings</span><span class="tag">Engineering</span></span>
               </div>
             </div>
           </li>
@@ -270,7 +301,7 @@
     </section>
 
     <!-- TRACK RECORD CHAPTER 3: CONSTRUCTION & INFRASTRUCTURE -->
-    <section class="section track-record">
+    <section class="section track-record" id="construction-infrastructure">
       <div class="wrap">
         <h2>Construction &amp; Infrastructure Works</h2>
         <ul class="project-list">
@@ -281,6 +312,7 @@
                 <h3>Sivagangai to Tirumayam Road</h3>
                 <p>Construction of Bridges and Culverts in Tamil Nadu</p>
                 <p class="project-client">Client: DBL, Bhopal</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Bridges</span></span>
               </div>
             </div>
           </li>
@@ -291,6 +323,7 @@
                 <h3>NH81 Missing Link (Malda, WB)</h3>
                 <p>Construction &amp; Pre-Engineering of new road Km 46.550 to 59.697 EPC mode</p>
                 <p class="project-client">Client: WB</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Engineering</span></span>
               </div>
             </div>
           </li>
@@ -301,6 +334,7 @@
                 <h3>Hospet to Chitradurga Road</h3>
                 <p>Hard Rock Excavation (3 Lakh cum) &amp; Embankment (4.5 Lakh cum)</p>
                 <p class="project-client">Client: L&amp;T</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Earthworks</span></span>
               </div>
             </div>
           </li>
@@ -311,6 +345,7 @@
                 <h3>Pagi to Vikarabad Road Project</h3>
                 <p>Widening &amp; Strengthening Double lane to four lane, Telangana (18.025 km)</p>
                 <p class="project-client">Client: Telangana</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Highway</span></span>
               </div>
             </div>
           </li>
@@ -321,6 +356,7 @@
                 <h3>Kaleshwaram Lift Irrigation (Package 8)</h3>
                 <p>Gravity canal excavation 10.5 Lakh cum incl. 1.1 Lakh cum hard rock</p>
                 <p class="project-client">Client: MEIL, ₹9.9 Cr</p>
+                <span class="project-tags"><span class="tag">Irrigation</span><span class="tag">Water</span></span>
               </div>
             </div>
           </li>
@@ -331,6 +367,7 @@
                 <h3>Hospet Chitradurga Highway</h3>
                 <p>Controlled blasting for hard rock excavation</p>
                 <p class="project-client">Client: L&amp;T, Karnataka</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Earthworks</span></span>
               </div>
             </div>
           </li>
@@ -341,6 +378,7 @@
                 <h3>Integrated Municipal Solid Waste (MSW) Plant</h3>
                 <p>Fabrication &amp; Erection of Pyrolysis Processing Plant (50 TPD Capacity)</p>
                 <p class="project-client">Client: Thane</p>
+                <span class="project-tags"><span class="tag">Energy</span><span class="tag">Waste</span></span>
               </div>
             </div>
           </li>
@@ -351,6 +389,7 @@
                 <h3>Global Solar Power Plants</h3>
                 <p>Turnkey execution and civil/structural engineering</p>
                 <p class="project-client">Client: SAMWHAN TEM JV</p>
+                <span class="project-tags"><span class="tag">Energy</span><span class="tag">Solar</span></span>
               </div>
             </div>
           </li>
@@ -364,7 +403,7 @@
     </section>
 
     <!-- TRACK RECORD CHAPTER 4: CONSULTANCY -->
-    <section class="section track-record">
+    <section class="section track-record" id="consultancy-projects">
       <div class="wrap">
         <h2>Consultancy Projects</h2>
         <ul class="project-list consult-list">
@@ -375,6 +414,7 @@
                 <h3>ADCL Package IX (N4, N9, N14)</h3>
                 <p>Risk Analysis for Investigation, Design, Sustainable Development and Construction of Roads</p>
                 <p class="project-client">Project Value: INR 276 Crores · Avexa Anas JV</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Consultancy</span></span>
               </div>
             </div>
           </li>
@@ -385,6 +425,7 @@
                 <h3>Hybrid Annuity Road Packages (PN27–PN34, NAG143)</h3>
                 <p>Pre-bid Engineering services, Maharashtra</p>
                 <p class="project-client">Bid Project Cost: INR 1788 Crores · Avexa Anas JV</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Consultancy</span></span>
               </div>
             </div>
           </li>
@@ -395,6 +436,7 @@
                 <h3>Tumkur to Shivamogga (NH206)</h3>
                 <p>Pre-bid Engineering services, Hybrid Annuity Mode (Package I)</p>
                 <p class="project-client">Client: PRG Buildcon, Hyderabad</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Consultancy</span></span>
               </div>
             </div>
           </li>
@@ -405,6 +447,7 @@
                 <h3>Nagpur-Mumbai Super Communication Expressway</h3>
                 <p>Pre-bid Engineering services, Package VII</p>
                 <p class="project-client">Client: PRG Buildcon, Hyderabad</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Consultancy</span></span>
               </div>
             </div>
           </li>
@@ -415,6 +458,7 @@
                 <h3>Amaravati Capital City, Andhra Pradesh</h3>
                 <p>Pre-bid Engineering services on Design, Build, Item Rate basis</p>
                 <p class="project-client">Client: PRG Buildcon, Hyderabad</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Consultancy</span></span>
               </div>
             </div>
           </li>
@@ -425,6 +469,7 @@
                 <h3>NH-161 Kandi to Ramsanpalle</h3>
                 <p>Four laning (39.980 Km), Telangana under Bharatmala Pariyojna</p>
                 <p class="project-client">Client: PRG Buildcon, Hyderabad</p>
+                <span class="project-tags"><span class="tag">Roads</span><span class="tag">Consultancy</span></span>
               </div>
             </div>
           </li>

@@ -149,4 +149,44 @@
       });
     });
   });
+
+  /* ---- Project search & filter (Projects page) ---- */
+  const searchInput = document.getElementById('project-search');
+  const filterChips = document.querySelectorAll('.filter-chip');
+  const projectCards = document.querySelectorAll('.project-list li');
+
+  function filterProjects() {
+    const searchTerm = searchInput ? searchInput.value.toLowerCase() : '';
+    const activeChip = document.querySelector('.filter-chip.active');
+    const activeFilter = activeChip ? activeChip.getAttribute('data-filter') : 'all';
+
+    projectCards.forEach(function (card) {
+      const text = card.textContent.toLowerCase();
+      const tags = card.getAttribute('data-tags') || '';
+      const matchesSearch = text.includes(searchTerm);
+      const matchesFilter = activeFilter === 'all' || tags.includes(activeFilter);
+
+      if (matchesSearch && matchesFilter) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+
+  if (searchInput) {
+    searchInput.addEventListener('input', filterProjects);
+  }
+
+  filterChips.forEach(function (chip) {
+    chip.addEventListener('click', function () {
+      filterChips.forEach(function (c) {
+        c.classList.remove('active');
+        c.setAttribute('aria-pressed', 'false');
+      });
+      chip.classList.add('active');
+      chip.setAttribute('aria-pressed', 'true');
+      filterProjects();
+    });
+  });
 })();
