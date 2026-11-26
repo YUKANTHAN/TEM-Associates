@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" data-type="service" data-radius="soft" data-buttons="solid|tonal|block|arrow" data-motion>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="page-type" content="service">
+  <meta name="site-kind" content="other">
+  <meta name="page-kind" content="service">
+  <meta name="description" content="TEM Associates — construction and industrial consulting for developers, owners, and contractors. One hard fact: 22 years of scheduled delivery on commercial builds.">
+  <title>TEM Associates — Construction &amp; Industrial Consulting</title>
+  <link rel="preconnect" href="https://images.temassociates.example">
+  <link rel="preload" as="font" href="/fonts/inter-var.woff2" crossorigin>
+  <link rel="icon" href="/assets/favicon.svg">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <div class="brand">
+        <span class="wordmark" translate="no">TEM Associates</span>
+      </div>
+      <nav class="nav">
+        <button class="nav-toggle" aria-expanded="false" aria-controls="primary-menu" id="menu-button">Menu</button>
+        <ul class="nav-list" id="primary-menu" hidden>
+          <li><a href="#work">Work</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="hero" data-enter>
+      <div class="wrap">
+        <div class="hero-content">
+          <h1>Construction &amp; industrial consulting for developers and owners</h1>
+          <p class="hero-fact">22 years of scheduled delivery on commercial builds.</p>
+          <a href="#contact" class="button button--primary">Start a project</a>
+        </div>
+        <div class="hero-visual">
+          <img src="/assets/hero-build.jpg" alt="Completed industrial facility exterior at dusk" width="1200" height="800" loading="eager" fetchpriority="high">
+        </div>
+      </div>
+    </section>
+
+    <section class="section visit-block" id="visit">
+      <div class="wrap">
+        <h2>Visit the shop</h2>
+        <p>We meet at our office on 14th Street, in the industrial district. Bring your plans; we will walk you through sequencing, permitting, and the build schedule before ground breaks.</p>
+      </div>
+    </section>
+
+    <section class="section offer" id="services">
+      <div class="wrap">
+        <h2>What we build</h2>
+        <ul class="offer-list">
+          <li>
+            <h3>Commercial fit-outs</h3>
+            <p>Interior construction for offices, labs, and production floors, sequenced to keep existing operations running.</p>
+          </li>
+          <li>
+            <h3>Industrial facilities</h3>
+            <p>Warehouses, loading docks, and heavy-equipment pads built to load rating and clear height.</p>
+          </li>
+          <li>
+            <h3>Developer consulting</h3>
+            <p>Site evaluation, zoning review, and constructability feedback before you commit capital.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section place" id="about">
+      <div class="wrap">
+        <div class="place-grid">
+          <div class="place-visual">
+            <img src="/assets/team.jpg" alt="TEM Associates project team reviewing drawings at a table" width="800" height="600" loading="lazy">
+          </div>
+          <div class="place-text">
+            <h2>About TEM Associates</h2>
+            <p>We are a small consultancy of estimators, site supervisors, and former general contractors. We do not sub out the thinking. Every estimate carries a name and a phone number you can reach.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section booking" id="contact">
+      <div class="wrap">
+        <h2>Book a consultation</h2>
+        <form action="https://contact.temassociates.example/intake" method="post" aria-label="Consultation request">
+          <div class="form-group">
+            <label for="name">Full name</label>
+            <input type="text" id="name" name="name" required autocomplete="name">
+          </div>
+          <div class="form-group">
+            <label for="email">Work email</label>
+            <input type="email" id="email" name="email" required autocomplete="email" spellcheck="false">
+          </div>
+          <div class="form-group">
+            <label for="project">What are you building?</label>
+            <select id="project" name="project" required>
+              <option value="">Select a project type</option>
+              <option value="commercial-fitout">Commercial fit-out</option>
+              <option value="industrial-facility">Industrial facility</option>
+              <option value="developer-consulting">Developer consulting</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="message">Project details</label>
+            <textarea id="message" name="message" required minlength="10" autocomplete="off"></textarea>
+          </div>
+          <button type="submit" class="button button--primary">Send request</button>
+        </form>
+        <p class="contact-line">Street and district only: 14th Street, industrial district. Contact: hello@temassociates.example</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p class="footer-credit">Photography by TEM Associates. No stock images used.</p>
+      <p class="footer-contact">hello@temassociates.example &middot; 14th Street, industrial district</p>
+      <p class="footer-copy">&copy; 2026 TEM Associates. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

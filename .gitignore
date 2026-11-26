@@ -1,0 +1,22 @@
+# Opencode skills / tooling (not part of project)
+.agents/
+.taste-skill/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / dist
+dist/
+build/
+*.local

@@ -1,0 +1,1162 @@
+================================================================================
+COMPREHENSIVE PDF EXTRACTION REPORT
+Source: TEM Associates - Corporate Profile Presentation (3).pdf
+================================================================================
+
+================================================================================
+1. DOCUMENT METADATA
+================================================================================
+  format: PDF 1.5
+  title: PowerPoint Presentation
+  author: psr
+  creator: Microsoft® PowerPoint® 2016
+  producer: Microsoft® PowerPoint® 2016
+  creationDate: D:20260820131253+05'30'
+  modDate: D:20260820131253+05'30'
+  Page count: 18
+  Is PDF: True
+  Needs pass: 0
+
+================================================================================
+2. OUTLINES / TABLE OF CONTENTS / BOOKMARKS
+================================================================================
+  No outlines/bookmarks found
+
+================================================================================
+3. PAGE 1 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial | 34.6pt | ffffff | 110,308] "TEM ASSOCIATES PROJECTS INDIA PVT LTD"
+  [Arial | 15.0pt | 94a3b8 | 179,344] "Pioneering Design, EPC Execution & Comprehensive Project Management Consultancy in"
+  [Arial | 15.0pt | 94a3b8 | 436,368] "Infrastructure"
+  [Arial | 10.6pt | e2e8f0 | 221,419] "Roads & Bridges"
+  [Arial | 10.6pt | e2e8f0 | 339,417] "Buildings & Infra"
+  [Arial | 10.6pt | e2e8f0 | 448,418] "Railways & DFC"
+  [Arial | 10.6pt | e2e8f0 | 568,417] "Energy & Waste"
+  [Arial | 10.6pt | e2e8f0 | 688,414] "Software Development"
+  [Arial | 10.6pt | e2e8f0 | 726,427] "(PMC)"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 6 | 1280x720 | jpeg | 3 colorspace | 15649 bytes | BPC=8 | Filter=?
+  Img 2: Xref 8 | 246x26 | png | 3 colorspace | 1714 bytes | BPC=8 | Filter=?
+  Img 3: Xref 10 | 562x47 | png | 3 colorspace | 333 bytes | BPC=8 | Filter=?
+  Img 4: Xref 15 | 18x16 | png | 3 colorspace | 277 bytes | BPC=8 | Filter=?
+  Img 5: Xref 17 | 12x16 | png | 3 colorspace | 190 bytes | BPC=8 | Filter=?
+  Img 6: Xref 19 | 14x16 | png | 3 colorspace | 257 bytes | BPC=8 | Filter=?
+  Img 7: Xref 21 | 20x16 | png | 3 colorspace | 349 bytes | BPC=8 | Filter=?
+  Img 8: Xref 23 | 185x122 | png | 3 colorspace | 8519 bytes | BPC=8 | Filter=?
+  Img 9: Xref 24 | 554x488 | jpeg | 3 colorspace | 51905 bytes | BPC=8 | Filter=?
+  Img 10: Xref 27 | 200x226 | jpeg | 3 colorspace | 10257 bytes | BPC=8 | Filter=?
+  Img 11: Xref 29 | 547x393 | jpeg | 3 colorspace | 51078 bytes | BPC=8 | Filter=?
+  Img 12: Xref 30 | 547x393 | jpeg | 3 colorspace | 34373 bytes | BPC=8 | Filter=?
+  Img 13: Xref 31 | 325x222 | jpeg | 3 colorspace | 15260 bytes | BPC=8 | Filter=?
+  Img 14: Xref 32 | 475x357 | jpeg | 3 colorspace | 36368 bytes | BPC=8 | Filter=?
+  Img 15: Xref 33 | 383x212 | jpeg | 3 colorspace | 19701 bytes | BPC=8 | Filter=?
+  Img 16: Xref 34 | 349x166 | jpeg | 3 colorspace | 18115 bytes | BPC=8 | Filter=?
+  Img 17: Xref 35 | 484x449 | jpeg | 3 colorspace | 43335 bytes | BPC=8 | Filter=?
+  Img 18: Xref 36 | 402x302 | jpeg | 3 colorspace | 25611 bytes | BPC=8 | Filter=?
+  Img 19: Xref 37 | 30x29 | jpeg | 3 colorspace | 1245 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  Link: {'kind': 2, 'xref': 25, 'from': Rect(260.7799987792969, 80.17999267578125, 410.80999755859375, 219.64999389648438), 'uri': 'http://en.wikipedia.org/wiki/File:India_roadway_map.svg', 'id': ''}
+  Link: {'kind': 2, 'xref': 26, 'from': Rect(260.7799987792969, 80.17999267578125, 410.80999755859375, 219.64999389648438), 'uri': 'http://en.wikipedia.org/wiki/File:India_roadway_map.svg', 'id': ''}
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(0.058800000697374344, 0.09019999951124191, 0.16500000655651093), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 2 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 28.0pt | 002060 | 299,159] "OUR TECHNOLOGY & JV PARTNERS"
+  [Arial,Bold | 27.0pt | ffffff | 72,45] "OUR TECHNOLOGY & JV PARTNERS"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 23 | 185x122 | png | 3 colorspace | 8519 bytes | BPC=8 | Filter=?
+  Img 2: Xref 42 | 361x138 | jpeg | 3 colorspace | 8638 bytes | BPC=8 | Filter=?
+  Img 3: Xref 43 | 174x56 | jpeg | 3 colorspace | 2826 bytes | BPC=8 | Filter=?
+  Img 4: Xref 44 | 238x126 | jpeg | 3 colorspace | 4388 bytes | BPC=8 | Filter=?
+  Img 5: Xref 45 | 277x251 | jpeg | 3 colorspace | 6094 bytes | BPC=8 | Filter=?
+  Img 6: Xref 46 | 351x292 | jpeg | 3 colorspace | 8065 bytes | BPC=8 | Filter=?
+  Img 7: Xref 47 | 417x226 | jpeg | 3 colorspace | 6810 bytes | BPC=8 | Filter=?
+  Img 8: Xref 48 | 438x320 | jpeg | 3 colorspace | 8367 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 3 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial | 12.0pt | 002060 | 38,120] "We"
+  [Arial | 12.0pt | 002060 | 60,120] "are"
+  [Arial | 12.0pt | 002060 | 81,120] "pleased"
+  [Arial | 12.0pt | 002060 | 127,120] "to"
+  [Arial | 12.0pt | 002060 | 141,120] "introduce"
+  [Arial | 12.0pt | 002060 | 194,120] "ourselves,"
+  [Arial | 12.0pt | 002060 | 253,120] "as"
+  [Arial | 12.0pt | 002060 | 270,120] "one"
+  [Arial | 12.0pt | 002060 | 294,120] "of"
+  [Arial | 12.0pt | 002060 | 308,120] "the"
+  [Arial | 12.0pt | 002060 | 329,120] "growing"
+  [Arial | 12.0pt | 002060 | 375,120] "company"
+  [Arial | 12.0pt | 002060 | 428,120] "in"
+  [Arial | 12.0pt | 002060 | 441,120] "the"
+  [Arial | 12.0pt | 002060 | 38,134] "field"
+  [Arial | 12.0pt | 002060 | 64,134] "of"
+  [Arial,Bold | 12.0pt | 0284c7 | 79,134] "Design/Development/Construction"
+  [Arial | 12.0pt | 002060 | 281,134] "with"
+  [Arial | 12.0pt | 002060 | 307,134] "15"
+  [Arial | 12.0pt | 002060 | 325,134] "years"
+  [Arial | 12.0pt | 002060 | 359,134] "of"
+  [Arial | 12.0pt | 002060 | 374,134] "experience"
+  [Arial | 12.0pt | 002060 | 438,134] "and"
+  [Arial | 12.0pt | 002060 | 38,149] "expertise."
+  [Arial | 12.0pt | 002060 | 96,149] "TEM"
+  [Arial | 12.0pt | 002060 | 128,149] "has"
+  [Arial | 12.0pt | 002060 | 154,149] "the"
+  [Arial | 12.0pt | 002060 | 177,149] "resource"
+  [Arial | 12.0pt | 002060 | 230,149] "to"
+  [Arial | 12.0pt | 002060 | 247,149] "execute"
+  [Arial | 12.0pt | 002060 | 295,149] "construction"
+  [Arial | 12.0pt | 002060 | 366,149] "projects"
+  [Arial | 12.0pt | 002060 | 414,149] "of"
+  [Arial | 12.0pt | 002060 | 431,149] "large"
+  [Arial | 12.0pt | 002060 | 38,163] "magnitude"
+  [Arial | 12.0pt | 002060 | 98,163] "and"
+  [Arial | 12.0pt | 002060 | 122,163] "technological"
+  [Arial | 12.0pt | 002060 | 196,163] "complexity"
+  [Arial | 12.0pt | 002060 | 256,163] "in"
+  [Arial | 12.0pt | 002060 | 270,163] "any"
+  [Arial | 12.0pt | 002060 | 293,163] "part"
+  [Arial | 12.0pt | 002060 | 318,163] "of"
+  [Arial | 12.0pt | 002060 | 332,163] "India."
+  [Arial | 12.0pt | 002060 | 366,163] "TEM"
+  [Arial | 12.0pt | 002060 | 396,163] "is"
+  [Arial | 12.0pt | 002060 | 408,163] "equipped"
+  [Arial | 12.0pt | 002060 | 38,177] "with"
+  [Arial | 12.0pt | 002060 | 67,177] "requisite"
+  [Arial | 12.0pt | 002060 | 121,177] "and"
+  [Arial | 12.0pt | 002060 | 150,177] "wide"
+  [Arial | 12.0pt | 002060 | 183,177] "range"
+  [Arial | 12.0pt | 002060 | 222,177] "of"
+  [Arial | 12.0pt | 002060 | 241,177] "experience"
+  [Arial | 12.0pt | 002060 | 308,177] "to"
+  [Arial | 12.0pt | 002060 | 326,177] "undertake"
+  [Arial,Bold | 12.0pt | 0284c7 | 388,177] "Engineering"
+  [Arial,Bold | 12.0pt | 0284c7 | 38,192] "Procurement"
+  [Arial,Bold | 12.0pt | 0284c7 | 117,192] "and"
+  [Arial,Bold | 12.0pt | 0284c7 | 143,192] "Construction"
+  [Arial,Bold | 12.0pt | 0284c7 | 223,192] "(EPC)"
+  [Arial | 12.0pt | 002060 | 261,192] "projects"
+  [Arial | 12.0pt | 002060 | 308,192] "as"
+  [Arial | 12.0pt | 002060 | 326,192] "well"
+  [Arial | 12.0pt | 002060 | 352,192] "as"
+  [Arial | 12.0pt | 002060 | 369,192] "projects"
+  [Arial | 12.0pt | 002060 | 417,192] "on"
+  [Arial | 12.0pt | 002060 | 435,192] "item"
+  [Arial | 12.0pt | 002060 | 38,206] "rate basis. Contracts are executed using project management techniques."
+  [Arial,Bold | 8.4pt | 0284c7 | 66,250] "TEM"
+  [Arial,Bold | 10.0pt | 0284c7 | 90,250] "ASSOCIATES"
+  [Arial | 8.4pt | 002060 | 161,250] "is"
+  [Arial | 8.4pt | 002060 | 174,250] "also"
+  [Arial | 8.4pt | 002060 | 196,250] "Project"
+  [Arial | 8.4pt | 002060 | 228,250] "Management"
+  [Arial | 8.4pt | 002060 | 284,250] "Consultancy"
+  [Arial | 8.4pt | 002060 | 336,250] "Specialized"
+  [Arial | 8.4pt | 002060 | 386,250] "in"
+  [Arial | 8.4pt | 002060 | 399,250] "providing"
+  [Arial | 8.4pt | 002060 | 439,250] "Project"
+  [Arial | 8.4pt | 002060 | 66,261] "Management"
+  [Arial | 8.4pt | 002060 | 118,261] "services"
+  [Arial | 8.4pt | 002060 | 151,261] "for"
+  [Arial | 8.4pt | 002060 | 164,261] "Sectors"
+  [Arial | 8.4pt | 002060 | 196,261] "Like"
+  [Arial | 8.4pt | 002060 | 214,261] "Roads"
+  [Arial | 8.4pt | 002060 | 241,261] "&"
+  [Arial | 8.4pt | 002060 | 249,261] "Bridges,"
+  [Arial | 8.4pt | 002060 | 283,261] "Buildings,"
+  [Arial | 8.4pt | 002060 | 323,261] "Irrigation,"
+  [Arial | 8.4pt | 002060 | 360,261] "Railways,"
+  [Arial | 8.4pt | 002060 | 399,261] "Solar"
+  [Arial | 8.4pt | 002060 | 422,261] "Energy"
+  [Arial | 8.4pt | 002060 | 451,261] "and"
+  [Arial | 8.4pt | 002060 | 66,271] "Waste Management."
+  [Arial | 11.3pt | 475569 | 66,301] "."
+  [Arial,Bold | 10.0pt | 0284c7 | 66,309] "TEM"
+  [Arial,Bold | 10.0pt | 0284c7 | 92,309] "ASSOCIATES"
+  [Arial | 10.0pt | 002060 | 161,309] "also"
+  [Arial | 10.0pt | 002060 | 184,309] "provides"
+  [Arial | 10.0pt | 002060 | 226,309] "various"
+  [Arial | 10.0pt | 002060 | 262,309] "In-house"
+  [Arial | 10.0pt | 002060 | 306,309] "ERP"
+  [Arial | 10.0pt | 002060 | 330,309] "Solutions"
+  [Arial | 10.0pt | 002060 | 376,309] "for"
+  [Arial | 10.0pt | 002060 | 392,309] "effective"
+  [Arial | 10.0pt | 002060 | 433,309] "system"
+  [Arial | 10.0pt | 002060 | 66,321] "development"
+  [Arial | 10.0pt | 002060 | 127,321] "and"
+  [Arial | 10.0pt | 002060 | 148,321] "Implementation"
+  [Arial | 10.0pt | 002060 | 221,321] "at"
+  [Arial | 10.0pt | 002060 | 233,321] "various"
+  [Arial | 10.0pt | 002060 | 270,321] "stages"
+  [Arial | 10.0pt | 002060 | 304,321] "(Planning,"
+  [Arial | 10.0pt | 002060 | 353,321] "Construction"
+  [Arial | 10.0pt | 002060 | 413,321] "and"
+  [Arial | 10.0pt | 002060 | 434,321] "Project"
+  [Arial | 10.0pt | 002060 | 66,333] "Closure)."
+  [Arial,Bold | 10.0pt | 0284c7 | 66,381] "TEM"
+  [Arial,Bold | 10.0pt | 0284c7 | 91,381] "ASSOCIATES"
+  [Arial | 10.0pt | 002060 | 160,381] "focus"
+  [Arial | 10.0pt | 002060 | 187,381] "on"
+  [Arial | 10.0pt | 002060 | 202,381] "Value"
+  [Arial | 10.0pt | 002060 | 232,381] "Engineering"
+  [Arial | 10.0pt | 002060 | 289,381] "as"
+  [Arial | 10.0pt | 002060 | 303,381] "well"
+  [Arial | 10.0pt | 002060 | 324,381] "as"
+  [Arial | 10.0pt | 002060 | 339,381] "cost"
+  [Arial | 10.0pt | 002060 | 361,381] "reduction"
+  [Arial | 10.0pt | 002060 | 406,381] "techniques"
+  [Arial | 10.0pt | 002060 | 457,381] "in"
+  [Arial | 10.0pt | 002060 | 66,393] "order to enhance Gross margin of the project."
+  [Arial,Bold | 10.1pt | 92400e | 62,484] "Value Engineering Priority:"
+  [Arial | 10.1pt | 92400e | 190,484] "We focus on advanced Value Engineering and rigorous"
+  [Arial | 10.1pt | 92400e | 62,500] "cost-reduction techniques to directly enhance project gross margins."
+  [Arial,Bold | 24.0pt | 0f172a | 39,59] "COMPANY OVERVIEW & LEGACY"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 53 | 560x69 | png | 3 colorspace | 654 bytes | BPC=8 | Filter=?
+  Img 3: Xref 55 | 560x480 | png | 3 colorspace | 2817 bytes | BPC=8 | Filter=?
+  Img 4: Xref 57 | 560x480 | png | 3 colorspace | 12573 bytes | BPC=8 | Filter=?
+  Img 5: Xref 59 | 16x16 | png | 3 colorspace | 285 bytes | BPC=8 | Filter=?
+  Img 6: Xref 23 | 185x122 | png | 3 colorspace | 8519 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 4 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 15.0pt | 0f172a | 400,334] "Core Operating Values"
+  [Arial | 12.0pt | 475569 | 67,237] "To"
+  [Arial | 12.0pt | 475569 | 90,237] "build"
+  [Arial | 12.0pt | 475569 | 126,237] "a"
+  [Arial | 12.0pt | 475569 | 143,237] "unique,"
+  [Arial | 12.0pt | 475569 | 193,237] "highly"
+  [Arial | 12.0pt | 475569 | 235,237] "diversified"
+  [Arial | 12.0pt | 475569 | 299,237] "business"
+  [Arial | 12.0pt | 475569 | 357,237] "unit"
+  [Arial | 12.0pt | 475569 | 387,237] "capable"
+  [Arial | 12.0pt | 475569 | 439,237] "of"
+  [Arial | 12.0pt | 475569 | 67,251] "understanding the Global Market as our customer."
+  [Arial | 12.0pt | 002060 | 511,237] "Express"
+  [Arial | 12.0pt | 002060 | 558,237] "the"
+  [Arial | 12.0pt | 002060 | 579,237] "Creativity"
+  [Arial | 12.0pt | 002060 | 633,237] "involved"
+  [Arial | 12.0pt | 002060 | 681,237] "in"
+  [Arial | 12.0pt | 002060 | 694,237] "sourcing"
+  [Arial | 12.0pt | 002060 | 743,237] "Unique"
+  [Arial | 12.0pt | 002060 | 785,237] "Solutions"
+  [Arial | 12.0pt | 002060 | 838,237] "Worldwide"
+  [Arial | 12.0pt | 002060 | 511,251] "that"
+  [Arial | 12.0pt | 002060 | 537,251] "has"
+  [Arial | 12.0pt | 002060 | 562,251] "undisputed"
+  [Arial | 12.0pt | 002060 | 627,251] "level"
+  [Arial | 12.0pt | 002060 | 657,251] "of"
+  [Arial | 12.0pt | 002060 | 673,251] "competence"
+  [Arial | 12.0pt | 002060 | 744,251] "in"
+  [Arial | 12.0pt | 002060 | 760,251] "Customer"
+  [Arial | 12.0pt | 002060 | 818,251] "understanding"
+  [Arial | 12.0pt | 002060 | 511,265] "and"
+  [Arial | 12.0pt | 002060 | 537,265] "ensuring"
+  [Arial | 12.0pt | 002060 | 589,265] "that"
+  [Arial | 12.0pt | 002060 | 615,265] "unconditional"
+  [Arial | 12.0pt | 002060 | 692,265] "Quality"
+  [Arial | 12.0pt | 002060 | 735,265] "is"
+  [Arial | 12.0pt | 002060 | 750,265] "delivered"
+  [Arial | 12.0pt | 002060 | 804,265] "at"
+  [Arial | 12.0pt | 002060 | 821,265] "all"
+  [Arial | 12.0pt | 002060 | 839,265] "phases"
+  [Arial | 12.0pt | 002060 | 883,265] "of"
+  [Arial | 12.0pt | 002060 | 511,280] "business."
+  [Arial,Bold | 11.3pt | 0f172a | 114,402] "Trust"
+  [Arial,Bold | 11.3pt | 0f172a | 276,402] "Teamwork"
+  [Arial,Bold | 11.3pt | 0f172a | 420,402] "Customer Satisfaction"
+  [Arial,Bold | 11.3pt | 0f172a | 622,402] "Commitment"
+  [Arial,Bold | 11.3pt | 0f172a | 807,402] "Creativity"
+  [Arial,Bold | 13.6pt | 0f172a | 114,201] "Our Vision"
+  [Arial,Bold | 13.6pt | 0f172a | 558,201] "Our Mission"
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "CORPORATE VISION, MISSION & VALUES"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 63 | 568x197 | png | 3 colorspace | 1600 bytes | BPC=8 | Filter=?
+  Img 3: Xref 65 | 568x197 | png | 3 colorspace | 1617 bytes | BPC=8 | Filter=?
+  Img 4: Xref 67 | 220x116 | png | 3 colorspace | 835 bytes | BPC=8 | Filter=?
+  Img 5: Xref 69 | 220x116 | png | 3 colorspace | 833 bytes | BPC=8 | Filter=?
+  Img 6: Xref 71 | 220x116 | png | 3 colorspace | 827 bytes | BPC=8 | Filter=?
+  Img 7: Xref 73 | 220x116 | png | 3 colorspace | 842 bytes | BPC=8 | Filter=?
+  Img 8: Xref 75 | 36x29 | png | 3 colorspace | 534 bytes | BPC=8 | Filter=?
+  Img 9: Xref 77 | 36x29 | png | 3 colorspace | 692 bytes | BPC=8 | Filter=?
+  Img 10: Xref 79 | 28x29 | png | 3 colorspace | 537 bytes | BPC=8 | Filter=?
+  Img 11: Xref 81 | 22x29 | png | 3 colorspace | 590 bytes | BPC=8 | Filter=?
+  Img 12: Xref 83 | 22x29 | png | 3 colorspace | 444 bytes | BPC=8 | Filter=?
+  Img 13: Xref 85 | 48x49 | png | 3 colorspace | 1125 bytes | BPC=8 | Filter=?
+  Img 14: Xref 87 | 48x49 | png | 3 colorspace | 1131 bytes | BPC=8 | Filter=?
+  Img 15: Xref 89 | 24x21 | png | 3 colorspace | 334 bytes | BPC=8 | Filter=?
+  Img 16: Xref 91 | 20x21 | png | 3 colorspace | 367 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 5 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 9.7pt | 475569 | 45,423] "Previous Employer Experience:"
+  [Arial,Bold | 11.3pt | 38bdf8 | 191,423] "L&T, HCC, SPML, MAYTAS, RAMKY, RCM, NIPL&"
+  [Arial,Bold | 11.3pt | 38bdf8 | 45,439] "TMPL"
+  [Arial | 9.7pt | 475569 | 76,439] "."
+  [Arial,Bold | 12.0pt | 0f172a | 495,137] "TRACK RECORD OF KEY MEGA PROJECTS MANAGED:"
+  [Arial,Bold | 18.0pt | ffffff | 68,198] "Mr. P. Anantharaj"
+  [Arial,Bold | 11.3pt | 38bdf8 | 68,219] "M.E (Master in Transportation Engineering & Management)"
+  [Arial,Bold | 10.6pt | cbd5e1 | 83,244] "24+ Years"
+  [Arial | 10.6pt | cbd5e1 | 133,244] "of Leadership Experience across Roads, Bridges, Railways,"
+  [Arial | 10.6pt | cbd5e1 | 83,261] "Irrigation, Buildings, Energy & Waste Management."
+  [Arial,Bold | 11.3pt | 0f172a | 61,325] "CORE TECHNICAL EXPERTISE:"
+  [Arial | 9.7pt | 334155 | 69,345] "Project Execution"
+  [Arial | 9.7pt | 334155 | 266,345] "System Compliance Reports (SCR)"
+  [Arial | 9.7pt | 334155 | 69,363] "Design & Engineering"
+  [Arial | 9.7pt | 334155 | 266,363] "Schedule Integration"
+  [Arial | 9.7pt | 334155 | 69,381] "Project Control & PMS (Performance"
+  [Arial | 9.7pt | 334155 | 69,393] "Measuring System)"
+  [Arial | 9.7pt | 334155 | 266,381] "MPCS Controls (Management Planning"
+  [Arial | 9.7pt | 334155 | 266,393] "and Controlling Schedules)"
+  [Arial,Bold | 11.3pt | 475569 | 516,162] "Hiriyur – Bellary Road Project:"
+  [Arial | 11.3pt | 475569 | 679,162] "₹269 Cr (L&T)"
+  [Arial,Bold | 11.3pt | 475569 | 516,189] "Tumkur – Sira Road Project:"
+  [Arial | 11.3pt | 475569 | 667,189] "₹153 Cr (L&T)"
+  [Arial,Bold | 11.3pt | 475569 | 516,216] "Chennai Bypass Project:"
+  [Arial | 11.3pt | 475569 | 649,216] "₹505 Cr (HCC)"
+  [Arial,Bold | 11.3pt | 475569 | 516,243] "Hotel & Resort (Abu Dhabi, UAE):"
+  [Arial | 11.3pt | 475569 | 698,243] "AED 750 Million (Shapoorji Pallonji)"
+  [Arial,Bold | 11.3pt | 475569 | 516,270] "ASPOCOMP Factory (Sriperumbudur):"
+  [Arial | 11.3pt | 475569 | 721,270] "₹50 Cr (ETA)"
+  [Arial,Bold | 11.3pt | 475569 | 516,297] "Salem – Ulundurpet Highway Project:"
+  [Arial | 11.3pt | 475569 | 716,297] "₹430 Cr (Maytas)"
+  [Arial,Bold | 11.3pt | 475569 | 516,324] "Pondicherry – Tindivanam Tollway:"
+  [Arial | 11.3pt | 475569 | 705,324] "₹220 Cr (Maytas)"
+  [Arial,Bold | 11.3pt | 475569 | 516,351] "Moradabad – Bareilly Expressway:"
+  [Arial | 11.3pt | 475569 | 701,351] "₹550 Cr (Ramky)"
+  [Arial,Bold | 11.3pt | 475569 | 516,378] "Dedicated Freight Corridor Railway (UP):"
+  [Arial | 11.3pt | 475569 | 734,378] "₹150 Cr (RCM)"
+  [Arial,Bold | 11.3pt | 475569 | 516,405] "Lift Irrigation Projects (KLIS10 & MLIS):"
+  [Arial | 11.3pt | 475569 | 727,405] "₹250 Cr (NIPL RCMIL)"
+  [Arial,Bold | 11.3pt | 475569 | 516,432] "Vikravandi Sethiathoppu Road (NH45 C):"
+  [Arial | 11.3pt | 475569 | 734,432] "₹517 Cr (TMPL)"
+  [Arial,Bold | 11.3pt | 475569 | 516,459] "Solapur – MH/KA Border NH9 4-Laning:"
+  [Arial | 11.3pt | 475569 | 726,459] "₹119 Cr (TMPL)"
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "MANAGING DIRECTOR'S BRIEF PROFILE"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 101: "Type0" | Type: Arial,Bold | Ext: ttf | Ref: ['F3', 'Identity-H']
+  Xref 106: "Type0" | Type: Arial | Ext: ttf | Ref: ['F4', 'Identity-H']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 95 | 560x163 | png | 3 colorspace | 1385 bytes | BPC=8 | Filter=?
+  Img 3: Xref 97 | 560x136 | png | 3 colorspace | 1116 bytes | BPC=8 | Filter=?
+  Img 4: Xref 99 | 12x15 | png | 3 colorspace | 275 bytes | BPC=8 | Filter=?
+  Img 5: Xref 111 | 11x14 | png | 3 colorspace | 258 bytes | BPC=8 | Filter=?
+  Img 6: Xref 59 | 16x16 | png | 3 colorspace | 285 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 6 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial | 31.6pt | 38bdf8 | 63,200] "15+"
+  [Arial | 9.7pt | 94a3b8 | 63,220] "YEARS OPERATING HISTORY IN"
+  [Arial | 9.7pt | 94a3b8 | 63,231] "INDIAN CONSTRUCTION"
+  [Arial | 31.6pt | 38bdf8 | 284,200] "33"
+  [Arial | 9.7pt | 94a3b8 | 284,220] "ENGINEERING STAFF"
+  [Arial | 31.6pt | 38bdf8 | 506,200] "66%"
+  [Arial | 9.7pt | 94a3b8 | 506,220] "MANAGERS HOLDING ADVANCED"
+  [Arial | 9.7pt | 94a3b8 | 506,231] "ENGINEERING DEGREES"
+  [Arial | 31.6pt | 38bdf8 | 727,200] "100%"
+  [Arial | 9.7pt | 94a3b8 | 727,220] "DIRECT LEADERSHIP"
+  [Arial | 9.7pt | 94a3b8 | 727,231] "ACCOUNTABILITY ON QUALITY &"
+  [Arial | 9.7pt | 94a3b8 | 727,243] "SCHEDULE"
+  [Calibri | 12.0pt | 002060 | 67,364] "Strong, experienced and dedicated management team and skilled work force"
+  [Calibri | 12.0pt | 002060 | 511,364] "Project managers reporting to Director / Regional Head are responsible for the"
+  [Calibri | 12.0pt | 002060 | 511,378] "quality and timely completion of their projects."
+  [Arial,Bold | 13.6pt | 0f172a | 114,328] "Leadership & Workforce"
+  [Arial,Bold | 13.6pt | 0f172a | 558,328] "Governance & QA/QC"
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "TEM’S KEY ORGANIZATIONAL STRENGTHS"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 127: "TrueType" | Type: ABCDEE+Calibri | Ext: ttf | Ref: ['F5', 'WinAnsiEncoding']
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+  Xref 101: "Type0" | Type: Arial,Bold | Ext: ttf | Ref: ['F3', 'Identity-H']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 115 | 275x135 | png | 3 colorspace | 4550 bytes | BPC=8 | Filter=?
+  Img 3: Xref 117 | 275x135 | png | 3 colorspace | 4673 bytes | BPC=8 | Filter=?
+  Img 4: Xref 119 | 275x135 | png | 3 colorspace | 4653 bytes | BPC=8 | Filter=?
+  Img 5: Xref 121 | 275x135 | png | 3 colorspace | 4524 bytes | BPC=8 | Filter=?
+  Img 6: Xref 123 | 568x193 | png | 3 colorspace | 1537 bytes | BPC=8 | Filter=?
+  Img 7: Xref 125 | 568x193 | png | 3 colorspace | 1567 bytes | BPC=8 | Filter=?
+  Img 8: Xref 129 | 48x48 | png | 3 colorspace | 1043 bytes | BPC=8 | Filter=?
+  Img 9: Xref 131 | 48x48 | png | 3 colorspace | 1049 bytes | BPC=8 | Filter=?
+  Img 10: Xref 133 | 26x20 | png | 3 colorspace | 430 bytes | BPC=8 | Filter=?
+  Img 11: Xref 135 | 24x20 | png | 3 colorspace | 242 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 7 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial | 9.7pt | 475569 | 67,418] "Gravity Canals, Lift Irrigation Schemes (LIS), pump"
+  [Arial | 9.7pt | 475569 | 67,434] "stations, and major earthworks in rock & soil."
+  [Arial | 9.7pt | 475569 | 362,418] "Integrated Townships, Institutional Campuses,"
+  [Arial | 9.7pt | 475569 | 362,434] "Industrial Plants, and Prefabricated Factories."
+  [Arial | 9.7pt | 475569 | 657,418] "Solar Power Plants globally, Municipal Solid Waste"
+  [Arial | 9.7pt | 475569 | 657,434] "(MSW) Pyrolysis Processing Plants, and Clean"
+  [Arial | 9.7pt | 475569 | 657,450] "Energy."
+  [Arial,Bold | 13.6pt | 0f172a | 114,158] "Roads & Bridges"
+  [Arial | 11.3pt | 475569 | 88,196] "Highways (National, State & MDR)"
+  [Arial | 11.3pt | 475569 | 88,223] "Widening & Strengthening existing roads"
+  [Arial | 11.3pt | 475569 | 88,268] "Major Bridges, Flyovers & Grade"
+  [Arial | 11.3pt | 475569 | 88,286] "Separators"
+  [Arial,Bold | 13.6pt | 0f172a | 409,158] "Railways Infrastructure"
+  [Arial | 11.3pt | 475569 | 383,196] "Dedicated Freight Corridors (DFC)"
+  [Arial | 11.3pt | 475569 | 383,223] "Zonal Railway Execution (RVNL)"
+  [Arial | 11.3pt | 475569 | 383,250] "Port Connectivity Railway Lines"
+  [Arial,Bold | 13.6pt | 0f172a | 704,158] "Airport Engineering"
+  [Arial | 11.3pt | 475569 | 678,196] "Feasibility & Master Planning"
+  [Arial | 11.3pt | 475569 | 678,223] "Runways, Taxiways & Aprons"
+  [Arial | 11.3pt | 475569 | 678,250] "Terminal Building Design & Construction"
+  [Arial,Bold | 13.6pt | 0f172a | 114,381] "Irrigation Infrastructure"
+  [Arial,Bold | 13.6pt | 0f172a | 409,381] "Buildings & Structures"
+  [Arial,Bold | 13.6pt | 0f172a | 704,373] "Energy & Waste Management"
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "ENGINEERING VERTICALS WE SERVE"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 139 | 374x278 | png | 3 colorspace | 1639 bytes | BPC=8 | Filter=?
+  Img 3: Xref 141 | 374x278 | png | 3 colorspace | 1625 bytes | BPC=8 | Filter=?
+  Img 4: Xref 143 | 374x278 | png | 3 colorspace | 1648 bytes | BPC=8 | Filter=?
+  Img 5: Xref 145 | 374x185 | png | 3 colorspace | 1302 bytes | BPC=8 | Filter=?
+  Img 6: Xref 147 | 374x185 | png | 3 colorspace | 1290 bytes | BPC=8 | Filter=?
+  Img 7: Xref 149 | 374x185 | png | 3 colorspace | 1307 bytes | BPC=8 | Filter=?
+  Img 8: Xref 151 | 48x49 | png | 3 colorspace | 1040 bytes | BPC=8 | Filter=?
+  Img 9: Xref 153 | 49x49 | png | 3 colorspace | 1219 bytes | BPC=8 | Filter=?
+  Img 10: Xref 155 | 49x49 | png | 3 colorspace | 1063 bytes | BPC=8 | Filter=?
+  Img 11: Xref 157 | 48x49 | png | 3 colorspace | 1144 bytes | BPC=8 | Filter=?
+  Img 12: Xref 159 | 49x49 | png | 3 colorspace | 1228 bytes | BPC=8 | Filter=?
+  Img 13: Xref 161 | 49x49 | png | 3 colorspace | 1124 bytes | BPC=8 | Filter=?
+  Img 14: Xref 163 | 24x21 | png | 3 colorspace | 283 bytes | BPC=8 | Filter=?
+  Img 15: Xref 165 | 19x21 | png | 3 colorspace | 276 bytes | BPC=8 | Filter=?
+  Img 16: Xref 59 | 16x16 | png | 3 colorspace | 285 bytes | BPC=8 | Filter=?
+  Img 17: Xref 167 | 16x16 | png | 3 colorspace | 304 bytes | BPC=8 | Filter=?
+  Img 18: Xref 169 | 26x21 | png | 3 colorspace | 296 bytes | BPC=8 | Filter=?
+  Img 19: Xref 171 | 24x21 | png | 3 colorspace | 287 bytes | BPC=8 | Filter=?
+  Img 20: Xref 173 | 16x21 | png | 3 colorspace | 257 bytes | BPC=8 | Filter=?
+  Img 21: Xref 175 | 19x21 | png | 3 colorspace | 267 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 8 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 13.6pt | fbbf24 | 68,172] "General Construction Contractor"
+  [Arial | 10.6pt | cbd5e1 | 68,192] "turnkey execution for Infrastructure Projects in Buildings, Roads, Railways, Energy, Waste Management, and Irrigation."
+  [Arial,Bold | 11.3pt | 0f172a | 59,278] "Feasibility & DPR"
+  [Arial | 9.7pt | 64748b | 59,297] "Detailed Project Reports, technical feasibility, and financial"
+  [Arial | 9.7pt | 64748b | 59,313] "modeling."
+  [Arial,Bold | 11.3pt | 0f172a | 354,278] "Detailed Design & Engg"
+  [Arial | 9.7pt | 64748b | 354,297] "Pre-engineering, structural analysis, and quantity"
+  [Arial | 9.7pt | 64748b | 354,313] "estimation."
+  [Arial,Bold | 11.3pt | 0f172a | 648,278] "Geotechnical & Traffic"
+  [Arial | 9.7pt | 64748b | 648,297] "Sub-soil investigation, traffic surveys, capacity & load"
+  [Arial | 9.7pt | 64748b | 648,313] "analysis."
+  [Arial,Bold | 11.3pt | 0f172a | 59,391] "PMC & Supervision"
+  [Arial | 9.7pt | 64748b | 59,410] "Full Project Management Consultancy, site supervision &"
+  [Arial | 9.7pt | 64748b | 59,426] "quality control."
+  [Arial,Bold | 11.3pt | 0f172a | 354,391] "Value Engineering"
+  [Arial | 9.7pt | 64748b | 354,410] "Cost optimization, process streamlining & sustainable"
+  [Arial | 9.7pt | 64748b | 354,426] "solutions."
+  [Arial,Bold | 11.3pt | 0f172a | 648,391] "ERP Implementation"
+  [Arial | 9.7pt | 64748b | 648,410] "Custom ERP development for real-time project tracking &"
+  [Arial | 9.7pt | 64748b | 648,426] "management."
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "OUR COMPREHENSIVE ACTIVITIES & SERVICES"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 179 | 1160x90 | png | 3 colorspace | 1021 bytes | BPC=8 | Filter=?
+  Img 3: Xref 181 | 375x135 | png | 3 colorspace | 988 bytes | BPC=8 | Filter=?
+  Img 4: Xref 183 | 376x135 | png | 3 colorspace | 991 bytes | BPC=8 | Filter=?
+  Img 5: Xref 185 | 375x134 | png | 3 colorspace | 991 bytes | BPC=8 | Filter=?
+  Img 6: Xref 187 | 376x134 | png | 3 colorspace | 988 bytes | BPC=8 | Filter=?
+  Img 7: Xref 189 | 375x134 | png | 3 colorspace | 994 bytes | BPC=8 | Filter=?
+  Img 8: Xref 191 | 17x23 | png | 3 colorspace | 333 bytes | BPC=8 | Filter=?
+  Img 9: Xref 193 | 23x23 | png | 3 colorspace | 486 bytes | BPC=8 | Filter=?
+  Img 10: Xref 195 | 23x23 | png | 3 colorspace | 346 bytes | BPC=8 | Filter=?
+  Img 11: Xref 197 | 22x23 | png | 3 colorspace | 323 bytes | BPC=8 | Filter=?
+  Img 12: Xref 199 | 29x23 | png | 3 colorspace | 492 bytes | BPC=8 | Filter=?
+  Img 13: Xref 201 | 29x23 | png | 3 colorspace | 364 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 9 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial | 9.7pt | ffffff | 50,130] "Sl."
+  [Arial | 9.7pt | ffffff | 108,130] "Equipment Description"
+  [Arial | 9.7pt | ffffff | 382,130] "Available Fleet"
+  [Arial | 9.7pt | ffffff | 553,130] "Unit"
+  [Arial | 10.1pt | 334155 | 50,158] "1"
+  [Arial | 10.1pt | 334155 | 108,158] "Hydraulic Excavator (EX 200)"
+  [Arial | 10.1pt | 334155 | 382,158] "4"
+  [Arial | 10.1pt | 334155 | 553,158] "Nos"
+  [Arial | 10.1pt | 334155 | 50,186] "2"
+  [Arial | 10.1pt | 334155 | 108,186] "Hydraulic Excavator (PC 300)"
+  [Arial | 10.1pt | 334155 | 382,186] "2"
+  [Arial | 10.1pt | 334155 | 553,186] "Nos"
+  [Arial | 10.1pt | 334155 | 50,214] "3"
+  [Arial | 10.1pt | 334155 | 108,214] "Hydraulic Excavator (Kobelco 350)"
+  [Arial | 10.1pt | 334155 | 382,214] "1"
+  [Arial | 10.1pt | 334155 | 553,214] "Nos"
+  [Arial | 10.1pt | 334155 | 50,242] "4"
+  [Arial | 10.1pt | 334155 | 108,242] "Dumpers (10 Tyre Heavy Fleet)"
+  [Arial | 10.1pt | 334155 | 382,242] "24"
+  [Arial | 10.1pt | 334155 | 553,242] "Nos"
+  [Arial | 10.1pt | 334155 | 50,270] "5"
+  [Arial | 10.1pt | 334155 | 108,270] "Motor Grader (9m Width)"
+  [Arial | 10.1pt | 334155 | 382,270] "2"
+  [Arial | 10.1pt | 334155 | 553,270] "Nos"
+  [Arial | 10.1pt | 334155 | 50,298] "6"
+  [Arial | 10.1pt | 334155 | 108,298] "Vibratory Roller (10 Tonne)"
+  [Arial | 10.1pt | 334155 | 382,298] "3"
+  [Arial | 10.1pt | 334155 | 553,298] "Nos"
+  [Arial | 10.1pt | 334155 | 50,326] "7"
+  [Arial | 10.1pt | 334155 | 108,326] "Sensor Paver (9m Width)"
+  [Arial | 10.1pt | 334155 | 382,326] "1"
+  [Arial | 10.1pt | 334155 | 553,326] "Nos"
+  [Arial | 10.1pt | 334155 | 50,354] "8"
+  [Arial | 10.1pt | 334155 | 108,354] "Tandem Roller (10 Tonne)"
+  [Arial | 10.1pt | 334155 | 382,354] "2"
+  [Arial | 10.1pt | 334155 | 553,354] "Nos"
+  [Arial | 10.1pt | 334155 | 50,382] "9"
+  [Arial | 10.1pt | 334155 | 108,382] "Shuttering Plates (1x1 & 1.2x1.2 Size)"
+  [Arial | 10.1pt | 334155 | 382,382] "2300"
+  [Arial | 10.1pt | 334155 | 553,382] "Sqm"
+  [Arial | 10.1pt | 334155 | 50,410] "10"
+  [Arial | 10.1pt | 334155 | 108,410] "Hydra Mobile Crane (12 Tonne)"
+  [Arial | 10.1pt | 334155 | 382,410] "1"
+  [Arial | 10.1pt | 334155 | 553,410] "Nos"
+  [Arial | 10.1pt | 334155 | 50,438] "11"
+  [Arial | 10.1pt | 334155 | 108,438] "Crawler Mounted Drilling Rig"
+  [Arial | 10.1pt | 334155 | 382,438] "1"
+  [Arial | 10.1pt | 334155 | 553,438] "Nos"
+  [Arial | 10.1pt | 334155 | 50,466] "12"
+  [Arial | 10.1pt | 334155 | 108,466] "Rotary Piling Rig (Tripod & Winch)"
+  [Arial | 10.1pt | 334155 | 382,466] "3"
+  [Arial | 10.1pt | 334155 | 553,466] "Nos"
+  [Arial | 10.1pt | 334155 | 50,494] "13"
+  [Arial | 10.1pt | 334155 | 108,494] "Four Wheelers"
+  [Arial | 10.1pt | 334155 | 382,494] "9"
+  [Arial | 10.1pt | 334155 | 553,494] "Nos"
+  [Arial | 10.1pt | 334155 | 50,522] "14"
+  [Arial | 10.1pt | 334155 | 108,522] "Total Station"
+  [Arial | 10.1pt | 334155 | 382,522] "1"
+  [Arial | 10.1pt | 334155 | 553,522] "Nos"
+  [Arial | 28.6pt | ffffff | 760,195] "120"
+  [Arial,Bold | 9.0pt | e0f2fe | 681,216] "SKILLED & UNSKILLED LABOUR WORKFORCE"
+  [Arial,Bold | 11.3pt | 0f172a | 689,281] "Rapid Deployment"
+  [Arial | 9.7pt | 475569 | 668,302] "All plant and heavy machinery are owned/hired and"
+  [Arial | 9.7pt | 475569 | 668,318] "ready for immediate deployment across project sites"
+  [Arial | 9.7pt | 475569 | 668,334] "nationwide."
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "MOBILIZATION CAPACITY (PLANT & MACHINERY)"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 205 | 350x142 | png | 3 colorspace | 5118 bytes | BPC=8 | Filter=?
+  Img 3: Xref 207 | 350x133 | png | 3 colorspace | 1103 bytes | BPC=8 | Filter=?
+  Img 4: Xref 209 | 42x37 | png | 3 colorspace | 750 bytes | BPC=8 | Filter=?
+  Img 5: Xref 211 | 19x16 | png | 3 colorspace | 456 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  105 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+  Drawing 2: 1 items, rect=Rect(45.0, 112.12899780273438, 102.7969970703125, 140.1099853515625), fill=(0.058800000697374344, 0.09019999951124191, 0.16500000655651093), color=None, width=None
+  Drawing 3: 1 items, rect=Rect(102.80000305175781, 112.12899780273438, 376.97998046875, 140.1099853515625), fill=(0.058800000697374344, 0.09019999951124191, 0.16500000655651093), color=None, width=None
+  Drawing 4: 1 items, rect=Rect(376.9800109863281, 112.12899780273438, 548.3400268554688, 140.1099853515625), fill=(0.058800000697374344, 0.09019999951124191, 0.16500000655651093), color=None, width=None
+  Drawing 5: 1 items, rect=Rect(548.3400268554688, 112.12899780273438, 620.9960327148438, 140.1099853515625), fill=(0.058800000697374344, 0.09019999951124191, 0.16500000655651093), color=None, width=None
+  ... and 100 more drawings
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 10 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 11.3pt | 475569 | 66,101] "SRM University, Haryana (Sonipat):"
+  [Arial | 11.3pt | 475569 | 255,101] "Design & Detailed Engineering for"
+  [Arial | 11.3pt | 475569 | 66,119] "internal road network (Bhargav Associates, Chennai)."
+  [Arial,Bold | 11.3pt | 475569 | 66,146] "VIMS Medical College, VIZAG:"
+  [Arial | 11.3pt | 475569 | 229,146] "Design and Detailed Engineering for road"
+  [Arial | 11.3pt | 475569 | 66,164] "networks (Bhargav Associates, Chennai)."
+  [Arial,Bold | 11.3pt | 475569 | 66,191] "Vikkravandi to Vadalur Bypass (NH45C):"
+  [Arial | 11.3pt | 475569 | 282,191] "Pre-engineering works for 4-Laning"
+  [Arial | 11.3pt | 475569 | 66,209] "(0+000 to 54+560) in TN (VGN Infra, Chennai)."
+  [Arial,Bold | 11.3pt | 475569 | 66,236] "Chennai Outer Ring Road:"
+  [Arial | 11.3pt | 475569 | 207,236] "Pre-engineering works for 4-Laning in Tamil Nadu"
+  [Arial | 11.3pt | 475569 | 66,254] "(VGN Infra, Chennai)."
+  [Arial,Bold | 11.3pt | 475569 | 66,281] "TEERTHA Integrated Township, Trichy:"
+  [Arial | 11.3pt | 475569 | 276,281] "Design, Detailed Engineering, PMC"
+  [Arial | 11.3pt | 475569 | 66,299] "& Construction Contractor."
+  [Arial,Bold | 11.3pt | 475569 | 66,326] "Ramco Cement Plant, Trichy:"
+  [Arial | 11.3pt | 475569 | 222,326] "Design & Detailed Engineering for internal"
+  [Arial | 11.3pt | 475569 | 66,344] "roads (Sree Infratech, Trichy)."
+  [Arial,Bold | 11.3pt | 475569 | 66,371] "Srinagar to Banihal Stretch (NH1A):"
+  [Arial | 11.3pt | 475569 | 259,371] "Design and Detailed Engineering works"
+  [Arial | 11.3pt | 475569 | 66,389] "(RIL, Hyderabad)."
+  [Arial,Bold | 11.3pt | 475569 | 66,416] "Nagpur to Waiganga Stretch:"
+  [Arial | 11.3pt | 475569 | 221,416] "Pre-engineering works (RIL, Hyderabad)."
+  [Arial,Bold | 11.3pt | 475569 | 66,443] "Sutlej River High Level Bridge:"
+  [Arial | 11.3pt | 475569 | 230,443] "4-Lane Bridge across River Sutlej at Ropa"
+  [Arial | 11.3pt | 475569 | 66,461] "Bye-Pass (RIL, Hyderabad)."
+  [Arial,Bold | 11.3pt | 475569 | 66,488] "KBITS & BMTC Bangalore:"
+  [Arial | 11.3pt | 475569 | 208,488] "Pre-Engineering works (RIL, Hyderabad)."
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "TRACK RECORD: DESIGN & ENGINEERING PROJECTS"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 55 | 560x480 | png | 3 colorspace | 2817 bytes | BPC=8 | Filter=?
+  Img 3: Xref 215 | 560x480 | png | 3 colorspace | 9590 bytes | BPC=8 | Filter=?
+  Img 4: Xref 59 | 16x16 | png | 3 colorspace | 285 bytes | BPC=8 | Filter=?
+  Img 5: Xref 23 | 185x122 | png | 3 colorspace | 8519 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 11 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 13.6pt | 0f172a | 114,146] "Bridges & Highways"
+  [Arial,Bold | 11.3pt | 475569 | 88,184] "Sivagangai to Tirumayam Road:"
+  [Arial | 11.3pt | 475569 | 259,184] "Construction of Bridges and Culverts"
+  [Arial | 11.3pt | 475569 | 88,202] "in Tamil Nadu (DBL, Bhopal)."
+  [Arial,Bold | 11.3pt | 475569 | 88,229] "NH81 Missing Link (Malda, WB):"
+  [Arial | 11.3pt | 475569 | 259,229] "Construction & Pre-Engineering of"
+  [Arial | 11.3pt | 475569 | 88,247] "new road from Km 46.550 to 59.697 on EPC mode."
+  [Arial,Bold | 11.3pt | 475569 | 88,274] "Hospet to Chitradurga Road:"
+  [Arial | 11.3pt | 475569 | 242,274] "Hard Rock Excavation (3 Lakh cum) and"
+  [Arial | 11.3pt | 475569 | 88,292] "Embankment/Subgrade (4.5 Lakh cum) for L&T."
+  [Arial,Bold | 13.6pt | 0f172a | 557,146] "Irrigation & Earthworks"
+  [Arial,Bold | 11.3pt | 475569 | 530,184] "Kaleshwaram Lift Irrigation (Package 8):"
+  [Arial | 11.3pt | 475569 | 745,184] "Gravity canal excavation via"
+  [Arial | 11.3pt | 475569 | 530,202] "M/s Battula Bramaiah (Subsidiary). Total 10.5 Lakh cum excavation"
+  [Arial | 11.3pt | 475569 | 530,220] "including 1.1 Lakh cum hard rock (MEIL, ₹9.9 Cr)."
+  [Arial,Bold | 11.3pt | 475569 | 530,247] "Hospet Chitradurga Highway:"
+  [Arial | 11.3pt | 475569 | 689,247] "Controlled blasting for hard rock"
+  [Arial | 11.3pt | 475569 | 530,265] "excavation along alignment (L&T, Karnataka)."
+  [Arial,Bold | 13.6pt | 0f172a | 114,387] "Energy & Environmental Infrastructure"
+  [Arial,Bold | 11.3pt | 475569 | 67,425] "Integrated Municipal Solid Waste (MSW) Plant:"
+  [Arial | 11.3pt | 475569 | 316,425] "Fabrication & Erection of"
+  [Arial | 11.3pt | 475569 | 67,443] "Pyrolysis Processing Plant (50 TPD Capacity, 60 MT Weight) including civil"
+  [Arial | 11.3pt | 475569 | 67,461] "foundation and 14,400 sq.ft prefabricated factory building."
+  [Arial,Bold | 11.3pt | 475569 | 489,378] "Global Solar Power Plants:"
+  [Arial | 11.3pt | 475569 | 632,378] "Turnkey execution and civil/structural engineering"
+  [Arial | 11.3pt | 475569 | 489,396] "for various Solar Power Plants across the world under"
+  [Arial,Bold | 11.3pt | 475569 | 760,396] "SAMWHAN TEM JV"
+  [Arial | 11.3pt | 475569 | 864,396] "."
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "TRACK RECORD: CONSTRUCTION & INFRASTRUCTURE WORKS"
+  [Arial,Bold | 11.3pt | 475569 | 488,426] "EPAD"
+  [Arial | 11.3pt | 475569 | 519,426] "(Electromechanical Power Amplifying Device): Newly Invented and"
+  [Arial | 11.3pt | 475569 | 488,444] "Patented Technology for Power Generation"
+  [Arial,Bold | 11.3pt | 475569 | 88,308] "Pagi to Vikarabad Road Project:"
+  [Arial | 11.3pt | 475569 | 261,308] "Widening and Strengthening from"
+  [Arial | 11.3pt | 475569 | 88,326] "Double lane to four lane road in the state of Telangana(18.025 km)"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 106: "Type0" | Type: Arial | Ext: ttf | Ref: ['F4', 'Identity-H']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 219 | 570x301 | png | 3 colorspace | 1980 bytes | BPC=8 | Filter=?
+  Img 3: Xref 221 | 570x301 | png | 3 colorspace | 1984 bytes | BPC=8 | Filter=?
+  Img 4: Xref 223 | 1160x193 | png | 3 colorspace | 1950 bytes | BPC=8 | Filter=?
+  Img 5: Xref 225 | 48x48 | png | 3 colorspace | 1072 bytes | BPC=8 | Filter=?
+  Img 6: Xref 227 | 48x48 | png | 3 colorspace | 1025 bytes | BPC=8 | Filter=?
+  Img 7: Xref 229 | 48x48 | png | 3 colorspace | 1114 bytes | BPC=8 | Filter=?
+  Img 8: Xref 231 | 24x20 | png | 3 colorspace | 242 bytes | BPC=8 | Filter=?
+  Img 9: Xref 233 | 24x20 | png | 3 colorspace | 284 bytes | BPC=8 | Filter=?
+  Img 10: Xref 235 | 20x20 | png | 3 colorspace | 325 bytes | BPC=8 | Filter=?
+  Img 11: Xref 59 | 16x16 | png | 3 colorspace | 285 bytes | BPC=8 | Filter=?
+  Img 12: Xref 167 | 16x16 | png | 3 colorspace | 304 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 12 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial | 11.3pt | 475569 | 66,101] "Risk Analysis for Investigation, Design, Sustainable Development and Construction of Roads, Cross Drainage Works, Bridges, Storm water Drains, Culverts, Water Supply,"
+  [Arial | 11.3pt | 475569 | 66,119] "Sewerage Network, Utility Ducts for Power & ICT, Reuse Network, Pedestrian Tracks, Cycle tracks, Avenue Plantation & Street Furniture etc., ADCL, Package IX(N4,N9, N14),"
+  [Arial | 11.3pt | 475569 | 66,137] "Avexa Anas JV, Project Value :INR 276 Crores."
+  [Arial | 11.3pt | 475569 | 66,163] "Pre-bid Engineering services for Hybrid Annuity Projects Various Road Packages (PN27, PN28, PN29, PN30, PN32, P33, P34,NAG143) in the State of Maharashtra, Avexa Anas"
+  [Arial | 11.3pt | 475569 | 66,181] "JV, Bid Project Cost: INR 1788 Crores."
+  [Arial | 11.3pt | 475569 | 66,211] "Pre-bid Engineering services for Four Laning of Tumkur to Shivamogga Section of NH206 from Km 12+310 (Design km 12+300) to Km 66+540 (Design Km 65+195) from"
+  [Arial | 11.3pt | 475569 | 66,229] "Mallasandra to Karadi village in the state of Karnataka on Hybrid Annuity Mode (PackageI),PRG Buildcon, Hyderabad."
+  [Arial | 11.3pt | 475569 | 66,259] "Pre-bid Engineering services for Access Controlled Nagpur-Mumbai Super Communication Expressway -Maharashtra Prosperity Corridor Km 296+000 to 347+190 (Length -"
+  [Arial | 11.3pt | 475569 | 66,277] "51.190 Km) Package VII, PRG Buildcon, Hyderabad."
+  [Arial | 11.3pt | 475569 | 66,313] "Pre-bid Engineering services for Investigation, Design and Construction of  Roads, Bridges, Storm water Drains, Culverts, Water Supply, Sewerage Network, Utility Ducts for"
+  [Arial | 11.3pt | 475569 | 66,331] "Power & ICT, Reuse Network, Pedestrian Tracks, Cycle tracks, Avenue Plantation & Street Furniture etc. in ( package -XVII)(i) E13 (excluding the Elevated Corridor), N1,"
+  [Arial | 11.3pt | 475569 | 66,349] "N2, N5, N18 and E15 Roads and (ii) Utilities in the green buffer of N6 Road in Amaravati Capital City, Andhra Pradesh on Design, Build, Item Rate (Lump sum) basis (2"
+  [Arial | 11.3pt | 475569 | 66,367] "yeas DLP), PRG Buildcon,Hyderabad."
+  [Arial | 11.3pt | 475569 | 67,391] "Four laning of NH-161 from Kandi (Existing Km 0.000/Design Km 0.000) to Ramsanpalle (Existing Km 44.757 /Design Km 39.980) (Design Length = 39.980 Km) in"
+  [Arial | 11.3pt | 475569 | 67,409] "the State of Telangana under Bharatmala Pariyojna on EPC Mode,PRG Buildcon, Hyderabad."
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "TRACK RECORD: Consultancy Project"
+  [Arial | 11.3pt | 475569 | 66,438] "Executive Summary For Identification Of Project Risks, Material Leads And Execution Strategy Based On Site Investigation for Rehabilitation and Up-gradation"
+  [Arial | 11.3pt | 475569 | 66,456] "of Sindoor River to Start of Bareli bypass section of NH-12 from existing km 130/10 to km 193/0 [Design Ch. 130.000 to Ch. 193.000] to four lane with paved"
+  [Arial | 11.3pt | 475569 | 66,474] "shoulders in the state of Madhya Pradesh on EPC Mode under NHDP-III.PRG Buildcon, Hyderabad."
+  [Arial | 11.3pt | 475569 | 67,505] "Design Detailed engineering works for internal road development, SRM University, Haryana, Sonipet, Bhargav Associates, Chennai"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 59 | 16x16 | png | 3 colorspace | 285 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 13 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial | 11.3pt | 475569 | 66,101] "Design and detailed Engineering works for Road networks, VIMS, Medical College, VIZAG,Bhargav Associates, Chennai"
+  [Arial | 11.3pt | 475569 | 66,136] "Pre-engineering works for Four Laning of Vikkravandi to Vadalur Bypass (0+000 to 54+560) of NH45C in the State of Tamil Nadu, VGN infra,Chennai"
+  [Arial | 11.3pt | 475569 | 66,164] "Pre-engineering works for Four Laning of Chennai Outer Ring Road in the State of Tamil Nadu, VGN infra, Chennai"
+  [Arial | 11.3pt | 475569 | 66,197] "Design, Detailed Engineering and Project Management works for TEERTHA integrated township, Trichy, Tamil Nadu"
+  [Arial | 11.3pt | 475569 | 66,389] "Construction of Bridges and Culverts for the road project from Sivagangai to tirumayam in the state of tamil nadu , DBL , Bhopal"
+  [Arial | 11.3pt | 475569 | 66,420] "Infrastructure development work for manufacturing unit of two wheeler component of Hero Groups in the state of Tamil Nadu, Cheyyar, Chennai."
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "TRACK RECORD: Consultancy Project"
+  [Arial | 11.3pt | 475569 | 66,232] "Design and Detailed Engineering works for Srinagar to Banihal stretch (NH1A), RIL,Hyderabad"
+  [Arial | 11.3pt | 475569 | 66,261] "Pre-engineering works for Nagpur to Waiganga, RIL,Hyderabad"
+  [Arial | 11.3pt | 475569 | 102,295] "."
+  [Arial | 11.3pt | 475569 | 66,296] "Pre-Engineering works for Jaipur Ring Road, RIL, Hyderabad"
+  [Arial | 11.3pt | 475569 | 66,331] "Pre-engineering woks for Construction of 4 Lane High Level Bridge across river Sutlej crossing Ropa Bye-Pass (Phase-II) in District Rupnagar &amp;SBS"
+  [Arial | 11.3pt | 475569 | 66,349] "Nagar,RIL,Hyderabad."
+  [Arial | 11.3pt | 475569 | 66,362] "Pre-Engineering works for KBITS and BMTC, Bangalore, RIL, Hyderabad."
+  [Arial | 11.3pt | 475569 | 66,448] "Pre-Engineering Works construction of new road at the missing link portion of nh81 along the approved alignment between harish chandrapur &amp; eastern"
+  [Arial | 11.3pt | 475569 | 66,466] "approach of kalindri-bridge from km 46.550 to km 59.697 in the district of malda, west bengal on EPC mode for Bright Wave constructions."
+  [Arial | 11.3pt | 475569 | 66,496] "Wonderland Integrated self Sustainable Smart community project at Villicheri , Kovilpatti Town, Tuticorin District in the state of Tamil Nadu."
+
+  --- FONTS ON THIS PAGE ---
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 59 | 16x16 | png | 3 colorspace | 285 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 14 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial | 11.3pt | 475569 | 66,112] "A System and Method for Power Amplification (EPAD device manufacturing and sales). Newly Invented and Patented technology for Power Generation."
+  [Arial | 11.3pt | 475569 | 66,163] "Design, Engineering, Manufacturing / Procurement, Supply, Erection, Installation, Commissioning and Maintenance of Integrated Pyrolysis Waste (Segregate Plastic)"
+  [Arial | 11.3pt | 475569 | 66,181] "Processing Plant."
+  [Arial | 11.3pt | 475569 | 66,259] "."
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "TRACK RECORD: Research and Development ( R&D) Projects"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 59 | 16x16 | png | 3 colorspace | 285 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 15 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 13.6pt | 0f172a | 45,363] "Strategic International Joint Ventures"
+  [Arial,Bold | 11.3pt | 0f172a | 89,312] "National Highways Authority of India"
+  [Arial,Bold | 10.6pt | 0284c7 | 60,398] "TEM REAP JV"
+  [Arial | 9.0pt | 475569 | 60,412] "REAP Infrastructure Management Pvt Ltd (Delhi)"
+  [Arial | 9.0pt | 475569 | 60,426] "RJAG Mogan Associates  and their consortium Executed"
+  [Arial | 9.0pt | 475569 | 60,440] "Several Projects in Canada and USA"
+  [Arial,Bold | 10.6pt | d97706 | 356,398] "SAMWHAN TEM JV"
+  [Arial | 9.0pt | 475569 | 356,412] "SAMWHAN Power Co. Ltd (South Korea)"
+  [Arial,Bold | 10.6pt | 0284c7 | 652,398] "TEM TRIKAAL JV"
+  [Arial | 9.0pt | 475569 | 652,412] "Trikaal Tech Enterprises Pvt Ltd (Chennai)"
+  [Arial | 9.4pt | 334155 | 363,220] "• L&T, Karnataka"
+  [Arial | 9.4pt | 334155 | 544,220] "• RIL, Hyderabad"
+  [Arial | 9.4pt | 334155 | 726,220] "• DBL, Madhya Pradesh"
+  [Arial | 9.4pt | 334155 | 363,239] "• VGN Infra, Chennai"
+  [Arial | 9.4pt | 334155 | 544,239] "• Bhargav Associates"
+  [Arial | 9.4pt | 334155 | 726,239] "• VVIP Infra Homes"
+  [Arial | 9.4pt | 334155 | 363,257] "• Maccaferri Environmental"
+  [Arial | 9.4pt | 334155 | 544,257] "• Sree Infratech, Trichy"
+  [Arial | 9.4pt | 334155 | 726,257] "• BPM Projects"
+  [Arial | 9.4pt | 334155 | 363,276] "• NIPL RCMIL, Hyd"
+  [Arial | 9.4pt | 334155 | 544,276] "• Prudhvi Infra Projects"
+  [Arial | 9.4pt | 334155 | 726,276] "• Bright Wave Const."
+  [Arial,Bold | 24.0pt | 0f172a | 45,61] "OUR CLIENTS & STRATEGIC JOINT VENTURES"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 106: "Type0" | Type: Arial | Ext: ttf | Ref: ['F4', 'Identity-H']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 51 | 1280x720 | jpeg | 3 colorspace | 15674 bytes | BPC=8 | Filter=?
+  Img 2: Xref 245 | 379x229 | png | 3 colorspace | 1427 bytes | BPC=8 | Filter=?
+  Img 3: Xref 247 | 757x229 | png | 3 colorspace | 1789 bytes | BPC=8 | Filter=?
+  Img 4: Xref 249 | 371x73 | png | 3 colorspace | 1047 bytes | BPC=8 | Filter=?
+  Img 5: Xref 251 | 372x73 | png | 3 colorspace | 1073 bytes | BPC=8 | Filter=?
+  Img 6: Xref 253 | 372x73 | png | 3 colorspace | 1052 bytes | BPC=8 | Filter=?
+  Img 7: Xref 255 | 178x26 | png | 3 colorspace | 1754 bytes | BPC=8 | Filter=?
+  Img 8: Xref 257 | 220x26 | png | 3 colorspace | 1812 bytes | BPC=8 | Filter=?
+  Img 9: Xref 259 | 623x110 | jpeg | 3 colorspace | 17761 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 16 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 27.0pt | ffffff | 72,45] "OUR TECHNOLOGY & JV PARTNERS"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 23 | 185x122 | png | 3 colorspace | 8519 bytes | BPC=8 | Filter=?
+  Img 2: Xref 263 | 1600x1131 | jpeg | 3 colorspace | 257066 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 17 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 27.0pt | ffffff | 72,45] "OUR TECHNOLOGY & JV PARTNERS"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 266 | 1687x897 | png | 3 colorspace | 63807 bytes | BPC=8 | Filter=?
+  Img 2: Xref 23 | 185x122 | png | 3 colorspace | 8519 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(1.0, 1.0, 1.0), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
+
+================================================================================
+3. PAGE 18 DETAILS
+================================================================================
+  Rect: 960.0 x 540.0 pts
+  Rotation: 0
+  Mediabox: Rect(0.0, 0.0, 960.0, 540.0)
+  Cropbox: Rect(0.0, 0.0, 960.0, 540.0)
+
+  --- TEXT WITH FORMATTING ---
+  [Arial,Bold | 28.6pt | ffffff | 409,227] "Thank You"
+  [Arial | 13.6pt | 38bdf8 | 281,259] "Ready to Partner on Next-Generation Mega Infrastructure Projects"
+  [Arial | 11.3pt | ffffff | 264,434] "temprojects2011@gmail.com"
+  [Arial | 11.3pt | ffffff | 553,433] "+91 8220075006"
+  [Arial,Bold | 11.3pt | fbbf24 | 174,320] "Registered Office"
+  [Arial,Bold | 10.1pt | cbd5e1 | 160,343] "TEM ASSOCIATES PROJECTS INDIA PVT LTD"
+  [Arial | 9.7pt | 94a3b8 | 160,363] "Sriram Complex, 1st Street, 1st Floor, 562-B, Gandhipuram,"
+  [Arial | 9.7pt | 94a3b8 | 160,379] "Coimbatore - 641012, Tamil Nadu, India."
+  [Arial,Bold | 11.3pt | fbbf24 | 523,320] "Branch Office"
+  [Arial,Bold | 10.1pt | cbd5e1 | 509,341] "TEM ASSOCIATES PROJECTS INDIA PVT LTD"
+  [Arial | 9.7pt | 94a3b8 | 509,365] "5/311-1-1, Sivakasi – Vembakkottai Road, Mankundampatti"
+  [Arial | 9.7pt | 94a3b8 | 509,381] "Sivakasi - 626128 Virudhunagar Dist.,Tamilnadu, India"
+
+  --- FONTS ON THIS PAGE ---
+  Xref 40: "TrueType" | Type: Arial,Bold | Ext: n/a | Ref: ['F2', 'WinAnsiEncoding']
+  Xref 12: "TrueType" | Type: Arial | Ext: n/a | Ref: ['F1', 'WinAnsiEncoding']
+  Xref 106: "Type0" | Type: Arial | Ext: ttf | Ref: ['F4', 'Identity-H']
+
+  --- IMAGES ON THIS PAGE ---
+  Img 1: Xref 6 | 1280x720 | jpeg | 3 colorspace | 15649 bytes | BPC=8 | Filter=?
+  Img 2: Xref 269 | 435x149 | png | 3 colorspace | 1189 bytes | BPC=8 | Filter=?
+  Img 3: Xref 271 | 435x149 | png | 3 colorspace | 1195 bytes | BPC=8 | Filter=?
+  Img 4: Xref 273 | 15x16 | png | 3 colorspace | 260 bytes | BPC=8 | Filter=?
+  Img 5: Xref 275 | 15x16 | png | 3 colorspace | 300 bytes | BPC=8 | Filter=?
+  Img 6: Xref 277 | 11x16 | png | 3 colorspace | 268 bytes | BPC=8 | Filter=?
+  Img 7: Xref 279 | 11x16 | png | 3 colorspace | 289 bytes | BPC=8 | Filter=?
+  Img 8: Xref 23 | 185x122 | png | 3 colorspace | 8519 bytes | BPC=8 | Filter=?
+
+  --- LINKS / ANNOTATIONS ---
+  No links found
+
+  --- DRAWINGS / VECTOR GRAPHICS ---
+  1 drawing paths found
+  Drawing 1: 1 items, rect=Rect(0.0, -6.103515625e-05, 960.0, 539.9999389648438), fill=(0.058800000697374344, 0.09019999951124191, 0.16500000655651093), color=None, width=None
+
+  --- WIDGETS / FORM FIELDS ---
+  No widgets/form fields found
