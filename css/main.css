@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
 /* TEM Associates — design system */
 /* Kind: service | site-kind: other | radius: soft */
 /* Trade: construction / industrial consultancy */
@@ -7,14 +8,21 @@
 /* Design tokens */
 :root {
   /* Construction-trade palette — no violet/lavender, no gradients */
-  --color-ink: #3A4C55;        /* deep slate — headings, body (Bechtel) */
-  --color-ink-soft: #57727F;   /* muted slate — secondary text */
-  --color-muted: #858585;      /* captions, meta (Skanska) */
-  --color-accent: #f6842b;     /* amber/orange — construction accent (Gensler) */
+  --color-ink: #3A4C55;
+  /* deep slate — headings, body (Bechtel) */
+  --color-ink-soft: #57727F;
+  /* muted slate — secondary text */
+  --color-muted: #858585;
+  /* captions, meta (Skanska) */
+  --color-accent: #f6842b;
+  /* amber/orange — construction accent (Gensler) */
   --color-accent-hover: #f48540;
-  --color-surface: #F3F6F7;    /* off-white card ground (Bechtel) */
-  --color-surface-light: #ececec; /* lighter surface (Skanska) */
-  --color-border: #DBE2E6;     /* subtle divider (Bechtel) */
+  --color-surface: #F3F6F7;
+  /* off-white card ground (Bechtel) */
+  --color-surface-light: #ececec;
+  /* lighter surface (Skanska) */
+  --color-border: #DBE2E6;
+  /* subtle divider (Bechtel) */
   --color-focus: #f6842b;
 
   /* Radius — soft per service kind */
@@ -44,7 +52,9 @@
   --transition-hover: 250ms ease;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -71,7 +81,8 @@ a {
   touch-action: manipulation;
 }
 
-a:hover, a:focus-visible {
+a:hover,
+a:focus-visible {
   color: var(--color-accent);
 }
 
@@ -1208,13 +1219,16 @@ a:hover, a:focus-visible {
   .nav {
     display: block;
   }
+
   .nav-toggle {
     display: none;
   }
+
   .nav-list {
     border: none;
     padding: 0;
   }
+
   .nav-list a {
     border: none;
     padding: 0.5rem 0;
@@ -1255,18 +1269,22 @@ a:hover, a:focus-visible {
   .md-profile {
     grid-template-columns: 1fr 1fr;
   }
+
   .rd-grid {
     grid-template-columns: 1fr 1fr;
   }
+
   .jv-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
   .value-grid {
     grid-template-columns: repeat(5, 1fr);
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
+
   *,
   *::before,
   *::after {
@@ -1275,13 +1293,16 @@ a:hover, a:focus-visible {
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+
   .button:hover,
   .button:focus-visible {
     transform: none;
   }
+
   .stat-card:hover {
     transform: none;
   }
+
   .card:hover,
   .offer-list li:hover,
   .capability-grid li:hover,
@@ -1325,7 +1346,8 @@ a:hover, a:focus-visible {
 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  padding-bottom: 56.25%;
+  /* 16:9 aspect ratio */
   height: 0;
   overflow: hidden;
   border-radius: var(--radius-soft);
@@ -1341,3 +1363,765 @@ a:hover, a:focus-visible {
   border: none;
 }
 
+
+
+/* ==========================================================================
+   VISUAL POLISH & RESPONSIVE REFINEMENTS
+   ========================================================================== */
+
+/* Desktop Navigation */
+@media (min-width: 768px) {
+  .nav-toggle {
+    display: none;
+  }
+
+  .nav-list[hidden] {
+    display: flex;
+  }
+
+  .nav-list {
+    border-top: none;
+    gap: 1.75rem;
+    align-items: center;
+  }
+
+  .nav-list a {
+    padding: 0.5rem 0;
+    font-size: 0.95rem;
+  }
+}
+
+/* Hero 2-column layout on desktop */
+.hero {
+  padding: 3.5rem 0 4.5rem;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .hero-grid {
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 3.5rem;
+  }
+}
+
+.hero-visual img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  box-shadow: 0 20px 40px color-mix(in srgb, var(--color-ink) 12%, transparent);
+}
+
+/* Crisp White Cards & Consistent Image Ratios */
+.office-card,
+.project-card,
+.capability-card,
+.vertical-card,
+.values-grid li {
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-soft);
+  overflow: hidden;
+  box-shadow: 0 4px 16px color-mix(in srgb, var(--color-ink) 5%, transparent);
+  transition: transform var(--transition-hover), box-shadow var(--transition-hover);
+}
+
+.project-card:hover,
+.office-card:hover,
+.capability-card:hover,
+.vertical-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px color-mix(in srgb, var(--color-ink) 10%, transparent);
+}
+
+.card-image,
+.project-image,
+.video-thumb {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  display: block;
+}
+
+.office-card h3,
+.office-card p,
+.project-info {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.office-card h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.office-card p {
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+  color: var(--color-ink-soft);
+}
+
+.project-info {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+.project-info h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.15rem;
+}
+
+.project-value {
+  font-weight: 700;
+  color: var(--color-accent);
+  margin: 0 0 0.25rem;
+}
+
+.project-client {
+  font-size: 0.9rem;
+  color: var(--color-ink-soft);
+  margin: 0;
+}
+
+/* Core Value Badges */
+.value-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--color-accent) 12%, #ffffff);
+  color: var(--color-accent);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+
+/* ==========================================================================
+   INTERNATIONAL EPC & ARCHITECTURE STANDARD UPGRADE
+   Inspired by Bechtel, Skanska, Arup, Gensler & SOM
+   ========================================================================== */
+
+
+:root {
+  --color-ink: #0F172A;
+  --color-ink-soft: #475569;
+  --color-muted: #64748B;
+  --color-accent: #EA580C;
+  --color-accent-hover: #C2410C;
+  --color-surface: #F8FAFC;
+  --color-surface-light: #F1F5F9;
+  --color-border: #E2E8F0;
+  --color-focus: #EA580C;
+  --font-display: "DM Serif Display", Georgia, serif;
+  --font-body: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Glassmorphic Sticky Header */
+.site-header {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--color-border);
+  transition: box-shadow 200ms ease, border-color 200ms ease;
+}
+
+.site-header.is-scrolled {
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.06);
+}
+
+.nav-list a.is-active {
+  color: var(--color-accent);
+  border-bottom-color: var(--color-accent);
+  font-weight: 600;
+}
+
+/* Editorial Hero */
+.hero {
+  background: #ffffff;
+  border-bottom: 1px solid var(--color-border);
+  padding: 4rem 0 5rem;
+}
+
+.hero h1 {
+  letter-spacing: -0.02em;
+  line-height: 1.08;
+}
+
+.hero-trigger {
+  background: var(--color-ink);
+  color: #ffffff;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: background 180ms ease, transform 180ms ease, box-shadow 180ms ease;
+}
+
+.hero-trigger:hover {
+  background: var(--color-accent);
+  transform: translateY(-1px);
+  box-shadow: 0 8px 20px rgba(234, 88, 12, 0.22);
+}
+
+.hero-stats {
+  gap: 2.5rem;
+  padding-top: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+.stat strong {
+  font-family: var(--font-display);
+  font-size: 2.15rem;
+  font-weight: 400;
+  color: var(--color-ink);
+}
+
+/* Section Polish */
+.section {
+  padding: 5.5rem 0;
+}
+
+.section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+/* Subtle Scroll Reveal — keep visible by default so nothing is ever stuck hidden */
+.reveal-ready {
+  opacity: 1;
+  transform: none;
+}
+
+@media (min-width: 900px) {
+  .hero .wrap {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .hero-grid {
+    display: grid !important;
+    grid-template-columns: 1.1fr 0.9fr !important;
+    gap: 3.5rem !important;
+    align-items: center !important;
+    width: 100% !important;
+  }
+}
+
+.hero-visual {
+  width: 100% !important;
+  min-width: 0 !important;
+}
+
+.hero-visual img {
+  width: 100% !important;
+  height: 420px !important;
+  object-fit: cover !important;
+  display: block !important;
+}
+
+@media (min-width: 768px) {
+  .hero-stats {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+}
+
+.footer-brand img {
+  background: #ffffff;
+  padding: 0.35rem 0.5rem;
+  border-radius: 6px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal-ready {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* Dark Architectural Footer */
+.site-footer {
+  background: var(--color-ink);
+  color: #CBD5E1;
+  padding: 4.5rem 0 2.5rem;
+  border-top: none;
+}
+
+.site-footer a,
+.site-footer p {
+  color: #CBD5E1;
+}
+
+.site-footer a:hover {
+  color: #ffffff;
+}
+
+.footer-copy {
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  padding-top: 1.5rem;
+  margin-top: 2.5rem;
+  color: #94A3B8;
+  font-size: 0.875rem;
+}
+
+/* Explicit Desktop Grid Guarantees */
+@media (min-width: 768px) {
+  .office-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+
+  .project-grid.featured,
+  .project-grid,
+  .capability-grid,
+  .vertical-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.75rem;
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr 1.2fr;
+    gap: 2.5rem;
+    align-items: start;
+  }
+}
+
+@media (min-width: 1024px) {
+  .project-grid.featured {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .project-grid,
+  .capability-grid,
+  .vertical-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+
+/* ==========================================================================
+   VISIT US SECTION REDESIGN
+   ========================================================================== */
+.section-eyebrow {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin-bottom: 0.35rem;
+}
+
+.visit-header {
+  align-items: flex-end;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 1.5rem;
+  margin-bottom: 2.25rem;
+}
+
+.visit-header h2 {
+  margin-bottom: 0;
+}
+
+.contact-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background: #ffffff;
+  color: var(--color-ink);
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: border-color 150ms ease, background 150ms ease, color 150ms ease;
+}
+
+.chip:hover {
+  border-color: var(--color-ink);
+  background: var(--color-ink);
+  color: #ffffff;
+}
+
+.chip--accent {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.chip--accent:hover {
+  background: var(--color-accent);
+  color: #ffffff;
+}
+
+.office-media {
+  position: relative;
+  overflow: hidden;
+}
+
+.office-badge {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: rgba(15, 23, 42, 0.86);
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.75rem;
+  border-radius: 4px;
+  backdrop-filter: blur(6px);
+}
+
+.office-body {
+  padding: 1.5rem;
+}
+
+.office-body h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+}
+
+.office-body p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--color-ink-soft);
+}
+
+
+/* ==========================================================================
+   VISIT US SECTION REDESIGN
+   ========================================================================== */
+.section-eyebrow {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin-bottom: 0.35rem;
+}
+
+.visit-header {
+  align-items: flex-end;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 1.5rem;
+  margin-bottom: 2.25rem;
+}
+
+.visit-header h2 {
+  margin-bottom: 0;
+}
+
+.contact-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background: #ffffff;
+  color: var(--color-ink);
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: border-color 150ms ease, background 150ms ease, color 150ms ease;
+}
+
+.chip:hover {
+  border-color: var(--color-ink);
+  background: var(--color-ink);
+  color: #ffffff;
+}
+
+.chip--accent {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.chip--accent:hover {
+  background: var(--color-accent);
+  color: #ffffff;
+}
+
+.office-media {
+  position: relative;
+  overflow: hidden;
+}
+
+.office-badge {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: rgba(15, 23, 42, 0.86);
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.75rem;
+  border-radius: 4px;
+  backdrop-filter: blur(6px);
+}
+
+.office-body {
+  padding: 1.5rem;
+}
+
+.office-body h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+}
+
+.office-body p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--color-ink-soft);
+}
+
+
+/* ==========================================================================
+   ARCHITECTURAL SPLIT — VISIT US
+   ========================================================================== */
+.visit-split {
+  display: grid;
+  grid-template-columns: 1fr;
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-soft);
+  overflow: hidden;
+  box-shadow: 0 12px 32px rgba(15, 23, 42, 0.06);
+}
+
+@media (min-width: 900px) {
+  .visit-split {
+    grid-template-columns: 1.25fr 0.75fr;
+  }
+}
+
+.visit-panel {
+  padding: 2.5rem;
+}
+
+.visit-panel h2 {
+  margin-bottom: 0.5rem;
+}
+
+.visit-lead {
+  color: var(--color-ink-soft);
+  margin-bottom: 2rem;
+}
+
+.visit-locations {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.75rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 640px) {
+  .visit-locations {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.visit-loc-tag {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin-bottom: 0.35rem;
+}
+
+.visit-loc h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.2rem;
+}
+
+.visit-loc p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--color-ink-soft);
+}
+
+.visit-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.visit-visual img {
+  width: 100%;
+  height: 100%;
+  min-height: 320px;
+  object-fit: cover;
+  display: block;
+}
+
+
+/* ==========================================================================
+   CORE SECTORS GRID
+   ========================================================================== */
+.sectors-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .sectors-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .sectors-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.sector-card {
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+  border-top: 3px solid var(--color-ink);
+  border-radius: var(--radius-soft);
+  padding: 1.75rem 1.5rem;
+  transition: transform 200ms ease, border-top-color 200ms ease, box-shadow 200ms ease;
+}
+
+.sector-card:hover {
+  transform: translateY(-3px);
+  border-top-color: var(--color-accent);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+}
+
+.sector-num {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  margin-bottom: 0.75rem;
+}
+
+.sector-card h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+}
+
+.sector-card p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--color-ink-soft);
+}
+
+
+/* ==========================================================================
+   CORE SECTORS GRID
+   ========================================================================== */
+.sectors-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .sectors-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .sectors-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.sector-card {
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+  border-top: 3px solid var(--color-ink);
+  border-radius: var(--radius-soft);
+  padding: 1.75rem 1.5rem;
+  transition: transform 200ms ease, border-top-color 200ms ease, box-shadow 200ms ease;
+}
+
+.sector-card:hover {
+  transform: translateY(-3px);
+  border-top-color: var(--color-accent);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+}
+
+.sector-num {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  margin-bottom: 0.75rem;
+}
+
+.sector-card h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+}
+
+.sector-card p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--color-ink-soft);
+}
+
+
+/* Prevent .section .wrap from trapping headings in col 1 and stacking cards in col 2 */
+.section .wrap {
+  display: block !important;
+}

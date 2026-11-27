@@ -190,3 +190,32 @@
     });
   });
 })();
+
+
+/* ==========================================================================
+   INTERNATIONAL STANDARD INTERACTION LAYER
+   Active nav state, sticky header scroll state, IntersectionObserver reveals
+   ========================================================================== */
+(function () {
+  /* Highlight active navigation link */
+  const currentPath = window.location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('.nav-list a').forEach(function (link) {
+    const href = link.getAttribute('href');
+    if (href === currentPath) {
+      link.classList.add('is-active');
+      link.setAttribute('aria-current', 'page');
+    }
+  });
+
+  /* Header scroll shadow */
+  const header = document.querySelector('.site-header');
+  if (header) {
+    const onScroll = function () {
+      header.classList.toggle('is-scrolled', window.scrollY > 12);
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  }
+
+  /* Scroll-triggered reveals disabled to prevent cards ever getting stuck invisible */
+})();
