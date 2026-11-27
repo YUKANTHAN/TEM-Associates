@@ -1,205 +1,62 @@
 <!DOCTYPE html>
-<html lang="en" data-type="service" data-radius="soft" data-buttons="solid|tonal|block|arrow" data-motion>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="page-type" content="service">
-  <meta name="site-kind" content="other">
-  <meta name="page-kind" content="services">
-  <meta name="description" content="TEM Associates — Design/Development/Construction (EPC) and Project Management Consultancy services. Engineering verticals and core technical capabilities.">
   <title>Services — TEM Associates</title>
-  <link rel="icon" href="TEM_PDF_Images/tem_logo.png" type="image/png">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="icon" href="../TEM_PDF_Images/tem_logo.png" type="image/png">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <a class="skip-link" href="#main">Skip to main content</a>
-
-  <header class="site-header">
-    <div class="wrap">
-      <div class="brand">
-        <img src="TEM_PDF_Images/tem_logo.png" alt="TEM Associates logo" width="200" height="60" loading="eager" fetchpriority="high" class="brand-img">
-        <span class="wordmark" translate="no">TEM Associates</span>
-      </div>
-      <button class="nav-toggle" aria-expanded="false" aria-controls="primary-menu" id="menu-button">Menu</button>
-      <ul class="nav-list" id="primary-menu" hidden>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="projects.html">Projects</a></li>
-        <li><a href="services.html">Services</a></li>
-        <li><a href="expertise.html">Expertise</a></li>
-        <li><a href="sustainability.html">Sustainability</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand"><img src="../TEM_PDF_Images/tem_logo.png" alt="TEM Associates"><span>TEM Associates</span></a>
+      <button class="menu-btn" id="menu-btn" type="button">Menu</button>
+      <nav class="nav" id="main-nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="services.html" class="active">Services</a>
+        <a href="expertise.html">Expertise</a>
+        <a href="sustainability.html">Sustainability</a>
+        <a href="contact.html" class="nav-cta">Contact Us</a>
+      </nav>
     </div>
   </header>
 
-  <main id="main">
-    <!-- HERO -->
-    <section class="hero" id="hero" data-enter>
-      <div class="wrap">
-        <div class="hero-grid">
-          <div class="hero-content">
-            <span class="hero-kicker">Services</span>
-            <h1>Our Comprehensive Activities &amp; Services</h1>
-            <p class="hero-sub">General Construction Contractor — turnkey execution for Infrastructure Projects in Buildings, Roads, Railways, Energy, Waste Management, and Irrigation.</p>
-            <button class="button button--primary hero-trigger" id="hero-trigger">Plan a Project</button>
-          </div>
-          <div class="hero-visual">
-            <img src="TEM_PDF_Images/modern_glass_building.jpeg" alt="Construction site and infrastructure project" width="1200" height="800" loading="eager" fetchpriority="high">
-          </div>
+  <main>
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <div><span class="eyebrow">Capabilities</span><h2>Engineering &amp; PMC Services</h2></div>
         </div>
-      </div>
-    </section>
-
-    <!-- SERVICES -->
-    <section class="section" id="services">
-      <div class="wrap">
-        <h2>Our Services</h2>
-        <ul class="capability-grid">
-          <li>
-            <img src="TEM_PDF_Images/india_highway_map.jpeg" alt="Feasibility &amp; DPR study" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Feasibility &amp; DPR</h3>
-            <p>Detailed Project Reports, technical feasibility, and financial modeling.</p>
-            <a href="projects.html#track-record" class="button button--small">View Projects</a>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/modern_glass_building.jpeg" alt="Detailed Design &amp; Engineering" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Detailed Design &amp; Engg</h3>
-            <p>Pre-engineering, structural analysis, and quantity estimation.</p>
-            <a href="projects.html#design-engineering" class="button button--small">View Projects</a>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/industrial_winch.jpeg" alt="Geotechnical &amp; Traffic investigation" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Geotechnical &amp; Traffic</h3>
-            <p>Sub-soil investigation, traffic surveys, capacity &amp; load analysis.</p>
-            <a href="projects.html#construction-infrastructure" class="button button--small">View Projects</a>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/industrial_winch.jpeg" alt="PMC &amp; Supervision site" width="300" height="200" loading="lazy" class="card-image">
-            <h3>PMC &amp; Supervision</h3>
-            <p>Full Project Management Consultancy, site supervision &amp; quality control.</p>
-            <a href="projects.html#consultancy-projects" class="button button--small">View Projects</a>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/erp_diagram.jpeg" alt="Value engineering project" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Value Engineering</h3>
-            <p>Cost optimization, process streamlining &amp; sustainable solutions.</p>
-            <a href="projects.html#mega-projects" class="button button--small">View Projects</a>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/erp_diagram.jpeg" alt="ERP system diagram" width="300" height="200" loading="lazy" class="card-image">
-            <h3>ERP Implementation</h3>
-            <p>Custom ERP development for real-time project tracking &amp; management.</p>
-            <a href="contact.html" class="button button--small">Contact Us</a>
-          </li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- VERTICALS -->
-    <section class="section" id="verticals">
-      <div class="wrap">
-        <h2>Engineering Verticals We Serve</h2>
-        <ul class="vertical-grid">
-          <li>
-            <img src="TEM_PDF_Images/project_highway_railway.jpeg" alt="Roads &amp; Bridges project" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Roads &amp; Bridges</h3>
-            <p>Highways (National, State &amp; MDR), Widening &amp; Strengthening existing roads, Major Bridges, Flyovers &amp; Grade Separators.</p>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/project_highway_railway.jpeg" alt="Railways infrastructure" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Railways Infrastructure</h3>
-            <p>Dedicated Freight Corridors (DFC), Zonal Railway Execution (RVNL), Port Connectivity Railway Lines.</p>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/modern_glass_building.jpeg" alt="Airport terminal" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Airport Engineering</h3>
-            <p>Feasibility &amp; Master Planning, Runways, Taxiways &amp; Aprons, Terminal Building Design &amp; Construction.</p>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/industrial_winch.jpeg" alt="Irrigation infrastructure" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Irrigation Infrastructure</h3>
-            <p>Gravity Canals, Lift Irrigation Schemes (LIS), pump stations, and major earthworks in rock &amp; soil.</p>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/modern_glass_building.jpeg" alt="Buildings &amp; structures" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Buildings &amp; Structures</h3>
-            <p>Integrated Townships, Institutional Campuses, Industrial Plants, and Prefabricated Factories.</p>
-          </li>
-          <li>
-            <img src="TEM_PDF_Images/solar_panel_field.jpeg" alt="Energy &amp; waste management" width="300" height="200" loading="lazy" class="card-image">
-            <h3>Energy &amp; Waste Management</h3>
-            <p>Solar Power Plants globally, Municipal Solid Waste (MSW) Pyrolysis Processing Plants, and Clean Energy.</p>
-          </li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- CAPABILITIES -->
-    <section class="section" id="capabilities">
-      <div class="wrap">
-        <h2>Our Capabilities</h2>
-        <div class="capabilities-two-col">
-          <div class="expertise-list">
-            <h3>Core Technical Expertise</h3>
-            <ol class="stage-list">
-              <li>Project Execution</li>
-              <li>System Compliance Reports (SCR)</li>
-              <li>Design &amp; Engineering</li>
-              <li>Schedule Integration</li>
-              <li>Project Control &amp; PMS (Performance Measuring System)</li>
-              <li>MPCS Controls (Management Planning and Controlling Schedules)</li>
-            </ol>
-          </div>
-          <div class="strengths">
-            <div class="strength-card">
-              <h3>Leadership &amp; Workforce</h3>
-              <p>Strong, experienced and dedicated management team and skilled work force. Project managers reporting to Director / Regional Head are responsible for the quality and timely completion of their projects.</p>
-            </div>
-            <div class="strength-card">
-              <h3>Governance &amp; QA/QC</h3>
-              <p>100% Direct Leadership Accountability on Quality &amp; Schedule.</p>
-            </div>
-          </div>
-        </div>
-        <div class="stats-row">
-          <div class="stat-card"><strong>15+ Years</strong><span>Operating History</span></div>
-          <div class="stat-card"><strong>33</strong><span>Engineering Staff</span></div>
-          <div class="stat-card"><strong>66%</strong><span>Advanced Engineering Degrees</span></div>
-          <div class="stat-card"><strong>100%</strong><span>Direct Leadership Accountability</span></div>
+        <div class="grid-4">
+          <article class="project-card">
+            <img src="../TEM_PDF_Images/india_highway_map.jpeg" alt="Feasibility &amp; DPR">
+            <div class="project-body"><h3>Feasibility &amp; DPR Studies</h3><p class="project-client">Detailed Project Reports &amp; alignment studies.</p></div>
+          </article>
+          <article class="project-card">
+            <img src="../TEM_PDF_Images/modern_glass_building.jpeg" alt="Detailed Design">
+            <div class="project-body"><h3>Detailed Design &amp; Engineering</h3><p class="project-client">Structural, highway, and MEP engineering.</p></div>
+          </article>
+          <article class="project-card">
+            <img src="../TEM_PDF_Images/industrial_winch.jpeg" alt="PMC &amp; Supervision">
+            <div class="project-body"><h3>PMC &amp; Site Supervision</h3><p class="project-client">End-to-end project management consultancy.</p></div>
+          </article>
+          <article class="project-card">
+            <img src="../TEM_PDF_Images/erp_diagram.jpeg" alt="ERP &amp; Digital PMC">
+            <div class="project-body"><h3>Digital PMC &amp; ERP</h3><p class="project-client">Real-time progress, billing, and QA/QC tracking.</p></div>
+          </article>
         </div>
       </div>
     </section>
   </main>
 
-  <footer class="site-footer">
-    <div class="wrap">
-      <div class="footer-grid">
-        <div class="footer-brand">
-          <img src="TEM_PDF_Images/tem_logo.png" alt="TEM Associates logo" width="150" height="45">
-          <p>TEM Associates Projects India Pvt Ltd</p>
-        </div>
-        <nav class="footer-nav">
-          <a href="index.html">Home</a>
-          <a href="about.html">About</a>
-          <a href="projects.html">Projects</a>
-          <a href="services.html">Services</a>
-          <a href="expertise.html">Expertise</a>
-          <a href="sustainability.html">Sustainability</a>
-          <a href="contact.html">Contact</a>
-        </nav>
-        <div class="footer-contact">
-          <p>Registered Office: Sriram Complex, Gandhipuram, Coimbatore - 641012, Tamil Nadu, India</p>
-          <p>Branch Office: Mankundampatti, Sivakasi - 626128, Tamilnadu, India</p>
-          <p>Phone: +91 8220075006</p>
-          <p>Email: temprojects2011@gmail.com</p>
-        </div>
-      </div>
-      <p class="footer-copy">&copy; 2026 TEM Associates. All rights reserved.</p>
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="margin-top: 0; border-top: none; padding-top: 0;">&copy; 2026 TEM Associates Projects India Pvt Ltd. All rights reserved.</div>
     </div>
   </footer>
-
-  <script src="js/main.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>
