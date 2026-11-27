@@ -1634,6 +1634,7 @@ body {
   height: 420px !important;
   object-fit: cover !important;
   display: block !important;
+  transform: translateY(-10px);
 }
 
 @media (min-width: 768px) {
