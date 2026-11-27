@@ -207,15 +207,5 @@
     }
   });
 
-  /* Header scroll shadow */
-  const header = document.querySelector('.site-header');
-  if (header) {
-    const onScroll = function () {
-      header.classList.toggle('is-scrolled', window.scrollY > 12);
-    };
-    window.addEventListener('scroll', onScroll, { passive: true });
-    onScroll();
-  }
-
   /* Scroll-triggered reveals disabled to prevent cards ever getting stuck invisible */
 })();
