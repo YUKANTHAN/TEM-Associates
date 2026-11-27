@@ -1552,7 +1552,7 @@ body {
 .hero {
   background: #ffffff;
   border-bottom: 1px solid var(--color-border);
-  padding: 2rem 0 5rem;
+  padding: 0 0 5rem;
 }
 
 .hero h1 {
@@ -1619,7 +1619,7 @@ body {
     display: grid !important;
     grid-template-columns: 1.1fr 0.9fr !important;
     gap: 3.5rem !important;
-    align-items: center !important;
+    align-items: start !important;
     width: 100% !important;
   }
 }
