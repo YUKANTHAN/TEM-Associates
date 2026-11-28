@@ -1,106 +1,148 @@
 <!DOCTYPE html>
-<html lang="en" data-type="service" data-radius="soft" data-buttons="solid|tonal|block|arrow" data-motion>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="page-type" content="service">
-  <meta name="site-kind" content="other">
-  <meta name="page-kind" content="sustainability">
-  <meta name="description" content="TEM Associates — Core values, strategic joint ventures, and clients.">
-  <title>Core Values — TEM Associates</title>
+  <title>Sustainability — TEM Associates</title>
+  <meta name="description" content="TEM Associates — Renewable energy, waste management, green infrastructure, and clean technology solutions.">
   <link rel="icon" href="TEM_PDF_Images/tem_logo.png" type="image/png">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <a class="skip-link" href="#main">Skip to main content</a>
-  <header class="site-header">
-    <div class="wrap">
-      <div class="brand">
-        <img src="TEM_PDF_Images/tem_logo.png" alt="TEM Associates logo" width="200" height="60" loading="eager" fetchpriority="high" class="brand-img">
-        <span class="wordmark" translate="no">TEM Associates</span>
-      </div>
-      <button class="nav-toggle" aria-expanded="false" aria-controls="primary-menu" id="menu-button">Menu</button>
-      <ul class="nav-list" id="primary-menu" hidden>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="projects.html">Projects</a></li>
-        <li><a href="services.html">Services</a></li>
-        <li><a href="expertise.html">Expertise</a></li>
-        <li><a href="sustainability.html" class="active">Sustainability</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand"><img src="TEM_PDF_Images/tem_logo.png" alt="TEM Associates"><span>TEM Associates</span></a>
+      <button class="menu-btn" id="menu-btn" type="button">Menu</button>
+      <nav class="nav" id="main-nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="services.html">Services</a>
+        <a href="expertise.html">Expertise</a>
+        <a href="sustainability.html" class="active">Sustainability</a>
+        <a href="contact.html" class="nav-cta">Contact Us</a>
+      </nav>
     </div>
   </header>
-  <main id="main">
-    <!-- HERO -->
-    <section class="hero" id="hero" data-enter>
-      <div class="wrap">
-        <div class="hero-grid">
-          <div class="hero-content">
-            <span class="hero-kicker">Core Values</span>
-            <h1>Our Core Values &amp; Partnerships</h1>
-            <p class="hero-sub">Trust, Teamwork, Customer Satisfaction, Commitment, Creativity — guiding every project we deliver.</p>
-            <button class="button button--primary hero-trigger" id="hero-trigger">Learn More</button>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <span class="eyebrow">Green Infrastructure</span>
+          <h1>Building a Sustainable Future</h1>
+          <p class="hero-sub">Renewable energy, waste-to-energy solutions, and clean technology for eco-friendly infrastructure development.</p>
+          <div class="hero-actions">
+            <a href="contact.html" class="btn btn-primary">Partner With Us</a>
+            <a href="expertise.html" class="btn btn-outline">Our R&amp;D</a>
           </div>
-          <div class="hero-visual">
-            <img src="TEM_PDF_Images/banner_executive_profile.png" alt="TEM Associates team" width="1200" height="800" loading="eager" fetchpriority="high">
+        </div>
+        <div class="hero-media">
+          <img src="TEM_PDF_Images/solar_array.jpeg" alt="Solar power plant">
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <div><span class="eyebrow">Our Commitment</span><h2>Sustainability Focus Areas</h2></div>
+        </div>
+        <div class="grid-4">
+          <div class="sector-card">
+            <img src="TEM_PDF_Images/solar_array.jpeg" alt="Solar energy" class="sector-image" loading="lazy">
+            <span class="sector-num">01</span>
+            <h3>Renewable Energy</h3>
+            <p>Turnkey execution of solar power plants globally, delivering clean and renewable energy solutions.</p>
+          </div>
+          <div class="sector-card">
+            <img src="TEM_PDF_Images/solar_greenhouse_interior.jpeg" alt="Waste management" class="sector-image" loading="lazy">
+            <span class="sector-num">02</span>
+            <h3>Waste Management</h3>
+            <p>Integrated Municipal Solid Waste (MSW) pyrolysis processing plants — converting waste to energy.</p>
+          </div>
+          <div class="sector-card">
+            <img src="TEM_PDF_Images/solar_carport.jpeg" alt="Green infrastructure" class="sector-image" loading="lazy">
+            <span class="sector-num">03</span>
+            <h3>Green Infrastructure</h3>
+            <p>Sustainable smart community projects and eco-friendly urban development solutions.</p>
+          </div>
+          <div class="sector-card">
+            <img src="TEM_PDF_Images/industrial_equipment.jpeg" alt="Clean technology" class="sector-image" loading="lazy">
+            <span class="sector-num">04</span>
+            <h3>Clean Technology</h3>
+            <p>EPAD patented power generation technology for efficient and sustainable energy production.</p>
           </div>
         </div>
       </div>
     </section>
-    <!-- CORE VALUES -->
-    <section class="section" id="core-values">
-      <div class="wrap">
-        <h2>Core Operating Values</h2>
-        <ul class="value-grid">
-          <li><span class="value-badge" aria-hidden="true">01</span><strong>Trust</strong></li>
-          <li><span class="value-badge" aria-hidden="true">02</span><strong>Teamwork</strong></li>
-          <li><span class="value-badge" aria-hidden="true">03</span><strong>Customer Satisfaction</strong></li>
-          <li><span class="value-badge" aria-hidden="true">04</span><strong>Commitment</strong></li>
-          <li><span class="value-badge" aria-hidden="true">05</span><strong>Creativity</strong></li>
-        </ul>
+
+    <section class="section" style="padding-top: 0;">
+      <div class="container">
+        <div class="section-head">
+          <div><span class="eyebrow">Key Projects</span><h2>Sustainable Solutions in Action</h2></div>
+        </div>
+        <div class="grid-4">
+          <article class="project-card">
+            <img src="TEM_PDF_Images/solar_array.jpeg" alt="Global Solar Power Plants">
+            <div class="project-body">
+              <h3>Global Solar Power Plants</h3>
+              <p class="project-client">Under SAMWHAN TEM JV</p>
+            </div>
+          </article>
+          <article class="project-card">
+            <img src="TEM_PDF_Images/solar_greenhouse_interior.jpeg" alt="MSW Pyrolysis Plant">
+            <div class="project-body">
+              <h3>MSW Pyrolysis Plant</h3>
+              <p class="project-client">50 TPD Capacity, 60 MT Weight</p>
+            </div>
+          </article>
+          <article class="project-card">
+            <img src="TEM_PDF_Images/solar_greenhouse_concept_2.jpeg" alt="Sustainable Smart Community">
+            <div class="project-body">
+              <h3>Wonderland Smart Community</h3>
+              <p class="project-client">Self-sustainable, Tuticorin District</p>
+            </div>
+          </article>
+          <article class="project-card">
+            <img src="TEM_PDF_Images/industrial_equipment.jpeg" alt="EPAD Technology">
+            <div class="project-body">
+              <h3>EPAD Power Technology</h3>
+              <p class="project-client">Patented clean energy solution</p>
+            </div>
+          </article>
+        </div>
       </div>
     </section>
-    <!-- JOINT VENTURES -->
-    <section class="section" id="joint-ventures">
-      <div class="wrap">
-        <h2>Strategic Joint Ventures</h2>
-        <ul class="jv-grid">
-          <li><img src="TEM_PDF_Images/logo_reap.jpeg" alt="TEM REAP JV" width="200" height="120" loading="lazy" class="card-image"><h3>TEM REAP JV</h3><p>REAP Infrastructure Management Pvt Ltd (Delhi). RJAG Mogan Associates and their consortium executed several projects in Canada and USA.</p></li>
-          <li><img src="TEM_PDF_Images/logo_samwhan.jpeg" alt="SAMWHAN TEM JV" width="200" height="120" loading="lazy" class="card-image"><h3>SAMWHAN TEM JV</h3><p>SAMWHAN Power Co. Ltd (South Korea).</p></li>
-          <li><img src="TEM_PDF_Images/logo_trikaal.jpeg" alt="TEM TRIKAAL JV" width="200" height="120" loading="lazy" class="card-image"><h3>TEM TRIKAAL JV</h3><p>Trikaal Tech Enterprises Pvt Ltd (Chennai).</p></li>
-        </ul>
-      </div>
-    </section>
-    <!-- CLIENTS -->
-    <section class="section" id="clients">
-      <div class="wrap">
-        <h2>Clients</h2>
-        <div class="client-list"><strong>National Highways Authority of India</strong> — Key government client for highway and infrastructure projects.</div>
-        <ul class="client-list">
-          <li><strong>L&amp;T</strong>, Karnataka</li>
-          <li><strong>RIL</strong>, Hyderabad</li>
-          <li><strong>DBL</strong>, Madhya Pradesh</li>
-          <li><strong>VGN Infra</strong>, Chennai</li>
-          <li><strong>Bhargav Associates</strong>, Chennai</li>
-          <li><strong>VVIP Infra Homes</strong></li>
-          <li><strong>Maccaferri Environmental</strong></li>
-          <li><strong>Sree Infratech</strong>, Trichy</li>
-          <li><strong>BPM Projects</strong></li>
-          <li><strong>NIPL RCMIL</strong>, Hyderabad</li>
-          <li><strong>Prudhvi Infra Projects</strong></li>
-          <li><strong>Bright Wave Constructions</strong></li>
-        </ul>
+
+    <section class="section" style="padding-top: 0;">
+      <div class="container">
+        <div class="visit-split">
+          <div class="visit-panel">
+            <span class="eyebrow">Value Engineering</span>
+            <h2 style="font-family: var(--font-display); font-size: 2.25rem; margin: 0 0 0.5rem;">Sustainable by Design</h2>
+            <p style="color: var(--ink-soft);">We focus on advanced value engineering and rigorous cost-reduction techniques to enhance project gross margins while delivering environmentally responsible infrastructure. Our approach ensures long-term sustainability without compromising quality.</p>
+            <div class="chips">
+              <span class="chip">Solar Energy</span>
+              <span class="chip">Waste-to-Energy</span>
+              <span class="chip">Clean Technology</span>
+              <span class="chip">Green Infrastructure</span>
+            </div>
+          </div>
+          <div class="visit-media">
+            <img src="TEM_PDF_Images/solar_carport.jpeg" alt="Sustainable infrastructure">
+          </div>
+        </div>
       </div>
     </section>
   </main>
-  <footer class="site-footer">
-    <div class="wrap">
+
+  <footer class="footer">
+    <div class="container">
       <div class="footer-grid">
-        <div class="footer-brand">
-          <img src="TEM_PDF_Images/tem_logo.png" alt="TEM Associates logo" width="150" height="45">
-          <p>TEM Associates Projects India Pvt Ltd</p>
+        <div>
+          <img src="TEM_PDF_Images/tem_logo.png" alt="TEM Associates" class="footer-logo">
+          <p style="margin: 0;">TEM Associates Projects India Pvt Ltd</p>
         </div>
         <nav class="footer-nav">
           <a href="index.html">Home</a>
@@ -111,20 +153,17 @@
           <a href="sustainability.html">Sustainability</a>
           <a href="contact.html">Contact</a>
         </nav>
-        <div class="footer-contact">
-          <p>Registered Office: Sriram Complex, Gandhipuram, Coimbatore - 641012, Tamil Nadu, India</p>
-          <p>Branch Office: Mankundampatti, Sivakasi - 626128, Tamilnadu, India</p>
-          <p>Phone: +91 8220075006</p>
-          <p>Email: temprojects2011@gmail.com</p>
+        <div>
+          <p style="margin: 0 0 0.5rem;">Registered Office: Gandhipuram, Coimbatore - 641012</p>
+          <p style="margin: 0 0 0.5rem;">Branch Office: Mankundampatti, Sivakasi - 626128</p>
+          <p style="margin: 0 0 0.5rem;">Phone: +91 8220075006</p>
+          <p style="margin: 0;">Email: temprojects2011@gmail.com</p>
         </div>
       </div>
-      <p class="footer-copy">&copy; 2026 TEM Associates. All rights reserved.</p>
+      <div class="footer-bottom">&copy; 2026 TEM Associates Projects India Pvt Ltd. All rights reserved.</div>
     </div>
   </footer>
+
   <script src="js/app.js"></script>
 </body>
 </html>
-
-
-
-
